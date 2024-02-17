@@ -1,2 +1,3 @@
-# TextMining_NUS_2024
-Guest lecture on text mining in NUS
+# Guest lecture on text mining at NUS in 2024
+
+For students: Please download the repo and open the `.rproj` file to replicate the analysis. To view outputs, please open files in the `/note` subdirectory.
