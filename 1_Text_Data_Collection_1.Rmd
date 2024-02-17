@@ -1,0 +1,107 @@
+---
+title: "Lab: Text Data Collection (I)"
+author: "Haohan Chen (HKU)"
+date: "`r Sys.Date()`"
+output: rmarkdown::github_document
+editor_options: 
+  chunk_output_type: console
+---
+
+## Introduction
+
+This notebook demonstrate how to parse text data from common document format.
+ 
+```{r}
+library(tidyverse)
+```
+
+## Parse PDF files
+
+```{r}
+if (!require("pdftools")) install.packages("pdftools")
+library(pdftools)
+
+# Source: https://www.ceo.gov.hk/archive/5-term/eng/pdf/article20220530.pdf
+parsed_pdf = pdftools::pdf_text("data/parse_sample.pdf")
+
+# Check: What is the output like? What is the length and why?
+length(parsed_pdf)
+print(parsed_pdf)
+
+# Save parsed text
+write(parsed_pdf, "data/parse_sample_out_pdf.txt")
+```
+
+## Parse JSON files
+
+```{r}
+if (!require("jsonlite")) install.packages("jsonlite")
+library(jsonlite)
+
+# Source: https://gist.github.com/hrp/900964
+parsed_json = jsonlite::read_json("data/parse_sample.json")
+names(parsed_json)
+```
+
+```{r}
+# Example: Get tweet text
+parsed_json$text
+```
+
+## Parse XML files
+
+```{r}
+if (!require("xml2")) install.packages("xml2")
+library(xml2)
+
+# Source: https://www.irs.gov/charities-non-profits/form-990-series-downloads
+parsed_xml = xml2::read_xml("data/parse_sample.xml")
+parsed_xml_ls = xml2::as_list(parsed_xml) # Make the parsed XML object a list
+```
+
+```{r}
+# Example: Get address
+parsed_xml_ls$Return$ReturnData$IRS990$USAddress
+
+# Example: Get activity or mission statement
+parsed_xml_ls$Return$ReturnData$IRS990$ActivityOrMissionDesc
+```
+
+## Parse HTML files
+
+```{r}
+library(xml2)
+
+# Source: https://www.info.gov.hk/gia/general/202206/21/P2022062100598.htm
+parsed_html = xml2::read_html("data/parse_sample.html")
+print(parsed_html)
+```
+
+```{r}
+# Example: Get ALL the text from this webpage
+parsed_html_text = xml2::xml_text(parsed_html)
+# Check the output. What's not great?
+print(parsed_html_text)
+```
+
+```{r}
+# Example: Only get text from webpage sections you want
+# Note: You need to analyze the webpage to locate the sections of interest.
+# A handy Google Chrome extension: SelectorGadget
+
+parsed_html_speech = parsed_html %>% 
+  xml_find_all('//*[(@id = "pressrelease")]') %>%
+  xml_text()
+
+parsed_html_title = parsed_html %>%
+  xml_find_all('//*[(@id = "PRHeadlineSpan")]') %>%
+  xml_text()
+```
+
+![A screenshot showing how I identify sections of interest on the webpage using `SelectorGadget` in Google Chrome](images/image-695647128.png)
+
+```{r}
+# Save the parsed text
+write(parsed_html_speech, "data/parse_sample_out_html_speech.txt")
+write(parsed_html_title, "data/parse_sample_out_html_title.txt")
+```

@@ -1,0 +1,123 @@
+---
+title: "Lab: Basic String Operations"
+author: "Haohan Chen (HKU)"
+date: "`r Sys.Date()`"
+output: rmarkdown::github_document
+editor_options: 
+  chunk_output_type: console
+---
+
+## Introduction
+
+This notebook demonstrates basic string operations. I will use two datasets as examples: the index table that we just obtained together and the full set of documents that I have retrieved and parsed using the methods I have introduced.
+
+```{r}
+library(tidyverse)
+library(lubridate)
+```
+
+```{r}
+# Index table
+d_index = read_csv("data/_index_table.csv")
+
+# Full text
+d_fulltext = read_rds("data/fulltext.rds")
+```
+
+## Detect Patterns of Interest I
+
+```{r}
+# Distinguish articles from speeches
+d_index_2 = d_index %>%
+  mutate(
+    speech = str_detect(title, "Speech"),
+    article = str_detect(title, "Article"),
+    .after = "date"
+  )
+
+# Any speech yet to be recognized?
+d_index_2 %>%
+  filter(speech == FALSE & article == FALSE)
+
+# Revise the rules
+d_index_2 = d_index %>%
+  mutate(
+    speech = str_detect(title, "(S|s)peech"),
+    article = str_detect(title, "Article"),
+    .after = "date"
+  )
+
+# Check again
+d_index_2 %>%
+  filter(speech == FALSE & article == FALSE)
+
+# Revise the rules
+d_index_2 = d_index %>%
+  mutate(
+    speech = str_detect(title, "((S|s)peech|remarks|message|speak)"),
+    article = str_detect(title, "(Article|letter)"),
+    .after = "date"
+  )
+
+# And check again
+d_index_2 %>%
+  filter(speech == FALSE & article == FALSE)
+
+# Revise the rules
+d_index_2 = d_index %>%
+  mutate(
+    speech = str_detect(title, "((S|s)peech|remarks|message|speak)"),
+    article = str_detect(title, "(Article|letter|Eulogy)"),
+    .after = "date"
+  )
+
+# And check again
+d_index_2 %>%
+  filter(speech == FALSE & article == FALSE)
+
+d_index_2 %>%
+  filter(speech == TRUE & article == TRUE)
+
+```
+
+## Detect Patterns of Interest II
+
+When and how did the Hong Kong Chief Executive talk about Singapore?
+
+```{r}
+# Check: When Mentioning Singapore in the main text
+d_fulltext_s_sin = d_fulltext %>% filter(str_detect(text, "Singapor"))
+
+str_locate_all(d_fulltext_s_sin$text[1], "Singapor") 
+```
+
+```{r}
+# Loate the mentioning in the first document and see the context
+str_locate_all(d_fulltext_s_sin$text[1], "Singapor") 
+str_sub(d_fulltext_s_sin$text[1], 4565-200, 4572+200)
+
+# Locate the mentioning in the second document and see the context
+str_locate_all(d_fulltext_s_sin$text[2], "Singapor") 
+
+# Count the number of time a pattern is mentioned in a text piece
+str_count(d_fulltext_s_sin$text[2], "Singapor") 
+str_sub(d_fulltext_s_sin$text[2], 2517-200, 2524+200)
+
+# Looks like many are related to Covid-19 measures.
+```
+
+```{r, fig.align='center'}
+d_fulltext %>%
+  mutate(date_of_speech = dmy(date_of_speech)) %>%
+  ggplot() +
+  geom_histogram(aes(x = date_of_speech), bins =  20) +
+  scale_x_date(date_breaks = "3 months", date_labels = "%Y-%m") +
+  theme(axis.text.x = element_text(angle = 90)) +
+  xlab("Date") + ylab("Count") +
+  labs(title = "How Frequent Did the Hong Kong Chief Executive Mention Singapore?")
+
+```
+
+## More text operation of this kind?
+
+Check out the `stringr` R package, a part of the `tidyverse` toolkit: <https://stringr.tidyverse.org/>

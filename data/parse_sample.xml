@@ -1,0 +1,1911 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Return xmlns="http://www.irs.gov/efile" xsi:schemaLocation="http://www.irs.gov/efile" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" returnVersion="2018v3.1">
+  <ReturnHeader binaryAttachmentCnt="0">
+    <ReturnTs>2019-10-16T14:48:40-05:00</ReturnTs>
+    <TaxPeriodEndDt>2018-12-31</TaxPeriodEndDt>
+    <PreparerFirmGrp>
+      <PreparerFirmName>
+        <BusinessNameLine1Txt>BKD LLP</BusinessNameLine1Txt>
+      </PreparerFirmName>
+      <PreparerUSAddress>
+        <AddressLine1Txt>111 South Tejon Suite 800</AddressLine1Txt>
+        <CityNm>Colorado Springs</CityNm>
+        <StateAbbreviationCd>CO</StateAbbreviationCd>
+        <ZIPCd>809039848</ZIPCd>
+      </PreparerUSAddress>
+    </PreparerFirmGrp>
+    <ReturnTypeCd>990</ReturnTypeCd>
+    <TaxPeriodBeginDt>2018-01-01</TaxPeriodBeginDt>
+    <Filer>
+      <EIN>840446259</EIN>
+      <BusinessName>
+        <BusinessNameLine1Txt>VALLEY VIEW HOSPITAL ASSOCIATION</BusinessNameLine1Txt>
+      </BusinessName>
+      <InCareOfNm>% MICHELLE KENNEY</InCareOfNm>
+      <BusinessNameControlTxt>VALL</BusinessNameControlTxt>
+      <PhoneNum>9709456535</PhoneNum>
+      <USAddress>
+        <AddressLine1Txt>1906 BLAKE AVENUE</AddressLine1Txt>
+        <CityNm>GLENWOOD SPRINGS</CityNm>
+        <StateAbbreviationCd>CO</StateAbbreviationCd>
+        <ZIPCd>81601</ZIPCd>
+      </USAddress>
+    </Filer>
+    <BusinessOfficerGrp>
+      <PersonNm>CHARLES CREVLING</PersonNm>
+      <PersonTitleTxt>CFO</PersonTitleTxt>
+      <PhoneNum>9709456535</PhoneNum>
+      <SignatureDt>2019-10-15</SignatureDt>
+      <DiscussWithPaidPreparerInd>true</DiscussWithPaidPreparerInd>
+    </BusinessOfficerGrp>
+    <PreparerPersonGrp>
+      <PreparerPersonNm>Adam R Smith CPA</PreparerPersonNm>
+      <PTIN>P00958966</PTIN>
+      <PhoneNum>7194714290</PhoneNum>
+    </PreparerPersonGrp>
+    <FilingSecurityInformation>
+      <IPAddress>
+        <IPv4AddressTxt>167.68.126.162</IPv4AddressTxt>
+      </IPAddress>
+      <FederalOriginalSubmissionId>84022720192895000068</FederalOriginalSubmissionId>
+      <FederalOriginalSubmissionIdDt>2019-10-16</FederalOriginalSubmissionIdDt>
+      <FilingLicenseTypeCd>P</FilingLicenseTypeCd>
+      <AtSubmissionCreationDeviceId>AF58D4CD08CD36936EE0B06487AAF04874613AA6</AtSubmissionCreationDeviceId>
+      <AtSubmissionFilingDeviceId>1E5D5B19B81F25AE9DAC4BA75F67F0807E0A9DB7</AtSubmissionFilingDeviceId>
+    </FilingSecurityInformation>
+    <TaxYr>2018</TaxYr>
+    <BuildTS>2020-03-31 21:24:44Z</BuildTS>
+  </ReturnHeader>
+  <ReturnData documentCnt="11">
+    <IRS990 documentId="IRS990" referenceDocumentId="IRS990ScheduleO">
+      <PrincipalOfficerNm>GARY BREWER</PrincipalOfficerNm>
+      <USAddress>
+        <AddressLine1Txt>1906 BLAKE AVENUE</AddressLine1Txt>
+        <CityNm>GLENWOOD SPRINGS</CityNm>
+        <StateAbbreviationCd>CO</StateAbbreviationCd>
+        <ZIPCd>81601</ZIPCd>
+      </USAddress>
+      <GrossReceiptsAmt>263450091</GrossReceiptsAmt>
+      <GroupReturnForAffiliatesInd>false</GroupReturnForAffiliatesInd>
+      <Organization501c3Ind>X</Organization501c3Ind>
+      <WebsiteAddressTxt>WWW.VVH.ORG</WebsiteAddressTxt>
+      <TypeOfOrganizationCorpInd>X</TypeOfOrganizationCorpInd>
+      <FormationYr>1950</FormationYr>
+      <LegalDomicileStateCd>CO</LegalDomicileStateCd>
+      <ActivityOrMissionDesc>TO BE THE LEADER FOR EXCELLENCE IN PERSONALIZED CARE AND HEALING.</ActivityOrMissionDesc>
+      <VotingMembersGoverningBodyCnt>7</VotingMembersGoverningBodyCnt>
+      <VotingMembersIndependentCnt>6</VotingMembersIndependentCnt>
+      <TotalEmployeeCnt>1375</TotalEmployeeCnt>
+      <TotalVolunteersCnt>156</TotalVolunteersCnt>
+      <TotalGrossUBIAmt>222342</TotalGrossUBIAmt>
+      <NetUnrelatedBusTxblIncmAmt>-84887</NetUnrelatedBusTxblIncmAmt>
+      <PYContributionsGrantsAmt>1661580</PYContributionsGrantsAmt>
+      <CYContributionsGrantsAmt>778083</CYContributionsGrantsAmt>
+      <PYProgramServiceRevenueAmt>236926531</PYProgramServiceRevenueAmt>
+      <CYProgramServiceRevenueAmt>250398086</CYProgramServiceRevenueAmt>
+      <PYInvestmentIncomeAmt>4720465</PYInvestmentIncomeAmt>
+      <CYInvestmentIncomeAmt>6525708</CYInvestmentIncomeAmt>
+      <PYOtherRevenueAmt>-1034063</PYOtherRevenueAmt>
+      <CYOtherRevenueAmt>1506691</CYOtherRevenueAmt>
+      <PYTotalRevenueAmt>242274513</PYTotalRevenueAmt>
+      <CYTotalRevenueAmt>259208568</CYTotalRevenueAmt>
+      <PYGrantsAndSimilarPaidAmt>322875</PYGrantsAndSimilarPaidAmt>
+      <CYGrantsAndSimilarPaidAmt>196698</CYGrantsAndSimilarPaidAmt>
+      <PYBenefitsPaidToMembersAmt>0</PYBenefitsPaidToMembersAmt>
+      <CYBenefitsPaidToMembersAmt>0</CYBenefitsPaidToMembersAmt>
+      <PYSalariesCompEmpBnftPaidAmt>116121213</PYSalariesCompEmpBnftPaidAmt>
+      <CYSalariesCompEmpBnftPaidAmt>120123989</CYSalariesCompEmpBnftPaidAmt>
+      <PYTotalProfFndrsngExpnsAmt>0</PYTotalProfFndrsngExpnsAmt>
+      <CYTotalProfFndrsngExpnsAmt>0</CYTotalProfFndrsngExpnsAmt>
+      <CYTotalFundraisingExpenseAmt>0</CYTotalFundraisingExpenseAmt>
+      <PYOtherExpensesAmt>102424349</PYOtherExpensesAmt>
+      <CYOtherExpensesAmt>104435202</CYOtherExpensesAmt>
+      <PYTotalExpensesAmt>218868437</PYTotalExpensesAmt>
+      <CYTotalExpensesAmt>224755889</CYTotalExpensesAmt>
+      <PYRevenuesLessExpensesAmt>23406076</PYRevenuesLessExpensesAmt>
+      <CYRevenuesLessExpensesAmt>34452679</CYRevenuesLessExpensesAmt>
+      <TotalAssetsBOYAmt>474362489</TotalAssetsBOYAmt>
+      <TotalAssetsEOYAmt>495535999</TotalAssetsEOYAmt>
+      <TotalLiabilitiesBOYAmt>183840922</TotalLiabilitiesBOYAmt>
+      <TotalLiabilitiesEOYAmt>174084915</TotalLiabilitiesEOYAmt>
+      <NetAssetsOrFundBalancesBOYAmt>290521567</NetAssetsOrFundBalancesBOYAmt>
+      <NetAssetsOrFundBalancesEOYAmt>321451084</NetAssetsOrFundBalancesEOYAmt>
+      <InfoInScheduleOPartIIIInd>X</InfoInScheduleOPartIIIInd>
+      <MissionDesc>TO BE THE LEADER FOR EXCELLENCE IN PERSONALIZED CARE AND HEALING.</MissionDesc>
+      <SignificantNewProgramSrvcInd>false</SignificantNewProgramSrvcInd>
+      <SignificantChangeInd>false</SignificantChangeInd>
+      <ExpenseAmt>184945914</ExpenseAmt>
+      <GrantAmt>196698</GrantAmt>
+      <RevenueAmt>250400988</RevenueAmt>
+      <Desc>VALLEY VIEW HOSPITAL IS AN ACUTE CARE HOSPITAL OWNED BY VALLEY VIEW HOSPITAL ASSOCIATION, INC., A NOT-FOR-PROFIT CORPORATION. THE HOSPITAL PRIMARILY EARNS REVENUE BY PROVIDING INPATIENT, OUTPATIENT, AND EMERGENCY CARE SERVICES TO PATIENTS IN GLENWOOD SPRINGS, COLORADO. SEE SCHEDULE O FOR MORE INFORMATION. See Schedule O for more information.</Desc>
+      <TotalProgramServiceExpensesAmt>184945914</TotalProgramServiceExpensesAmt>
+      <DescribedInSection501c3Ind referenceDocumentId="IRS990ScheduleA">true</DescribedInSection501c3Ind>
+      <ScheduleBRequiredInd referenceDocumentId="IRS990ScheduleB">true</ScheduleBRequiredInd>
+      <PoliticalCampaignActyInd referenceDocumentId="IRS990ScheduleC">false</PoliticalCampaignActyInd>
+      <LobbyingActivitiesInd referenceDocumentId="IRS990ScheduleC">true</LobbyingActivitiesInd>
+      <SubjectToProxyTaxInd referenceDocumentId="IRS990ScheduleC">false</SubjectToProxyTaxInd>
+      <DonorAdvisedFundInd referenceDocumentId="IRS990ScheduleD">false</DonorAdvisedFundInd>
+      <ConservationEasementsInd referenceDocumentId="IRS990ScheduleD">false</ConservationEasementsInd>
+      <CollectionsOfArtInd referenceDocumentId="IRS990ScheduleD">false</CollectionsOfArtInd>
+      <CreditCounselingInd referenceDocumentId="IRS990ScheduleD">false</CreditCounselingInd>
+      <TempOrPermanentEndowmentsInd referenceDocumentId="IRS990ScheduleD">true</TempOrPermanentEndowmentsInd>
+      <ReportLandBuildingEquipmentInd referenceDocumentId="IRS990ScheduleD">true</ReportLandBuildingEquipmentInd>
+      <ReportInvestmentsOtherSecInd referenceDocumentId="IRS990ScheduleD">false</ReportInvestmentsOtherSecInd>
+      <ReportProgramRelatedInvstInd referenceDocumentId="IRS990ScheduleD">false</ReportProgramRelatedInvstInd>
+      <ReportOtherAssetsInd referenceDocumentId="IRS990ScheduleD">false</ReportOtherAssetsInd>
+      <ReportOtherLiabilitiesInd referenceDocumentId="IRS990ScheduleD">true</ReportOtherLiabilitiesInd>
+      <IncludeFIN48FootnoteInd referenceDocumentId="IRS990ScheduleD">false</IncludeFIN48FootnoteInd>
+      <IndependentAuditFinclStmtInd referenceDocumentId="IRS990ScheduleD">false</IndependentAuditFinclStmtInd>
+      <ConsolidatedAuditFinclStmtInd referenceDocumentId="IRS990ScheduleD">true</ConsolidatedAuditFinclStmtInd>
+      <SchoolOperatingInd>false</SchoolOperatingInd>
+      <ForeignOfficeInd>false</ForeignOfficeInd>
+      <ForeignActivitiesInd>false</ForeignActivitiesInd>
+      <MoreThan5000KToOrgInd>false</MoreThan5000KToOrgInd>
+      <MoreThan5000KToIndividualsInd>false</MoreThan5000KToIndividualsInd>
+      <ProfessionalFundraisingInd>false</ProfessionalFundraisingInd>
+      <FundraisingActivitiesInd>false</FundraisingActivitiesInd>
+      <GamingActivitiesInd>false</GamingActivitiesInd>
+      <OperateHospitalInd referenceDocumentId="IRS990ScheduleH">true</OperateHospitalInd>
+      <AuditedFinancialStmtAttInd referenceDocumentId="BinaryAttach">true</AuditedFinancialStmtAttInd>
+      <GrantsToOrganizationsInd referenceDocumentId="IRS990ScheduleI">true</GrantsToOrganizationsInd>
+      <GrantsToIndividualsInd referenceDocumentId="IRS990ScheduleI">false</GrantsToIndividualsInd>
+      <ScheduleJRequiredInd referenceDocumentId="IRS990ScheduleJ">true</ScheduleJRequiredInd>
+      <TaxExemptBondsInd referenceDocumentId="IRS990ScheduleK">true</TaxExemptBondsInd>
+      <InvestTaxExemptBondsInd>false</InvestTaxExemptBondsInd>
+      <EscrowAccountInd>false</EscrowAccountInd>
+      <OnBehalfOfIssuerInd>false</OnBehalfOfIssuerInd>
+      <EngagedInExcessBenefitTransInd>false</EngagedInExcessBenefitTransInd>
+      <PYExcessBenefitTransInd>false</PYExcessBenefitTransInd>
+      <LoanOutstandingInd>false</LoanOutstandingInd>
+      <GrantToRelatedPersonInd>false</GrantToRelatedPersonInd>
+      <BusinessRlnWithOrgMemInd>false</BusinessRlnWithOrgMemInd>
+      <BusinessRlnWithFamMemInd>false</BusinessRlnWithFamMemInd>
+      <BusinessRlnWithOfficerEntInd>false</BusinessRlnWithOfficerEntInd>
+      <DeductibleNonCashContriInd>false</DeductibleNonCashContriInd>
+      <DeductibleArtContributionInd>false</DeductibleArtContributionInd>
+      <TerminateOperationsInd>false</TerminateOperationsInd>
+      <PartialLiquidationInd>false</PartialLiquidationInd>
+      <DisregardedEntityInd referenceDocumentId="IRS990ScheduleR">false</DisregardedEntityInd>
+      <RelatedEntityInd referenceDocumentId="IRS990ScheduleR">true</RelatedEntityInd>
+      <RelatedOrganizationCtrlEntInd>true</RelatedOrganizationCtrlEntInd>
+      <TransactionWithControlEntInd referenceDocumentId="IRS990ScheduleR">true</TransactionWithControlEntInd>
+      <TrnsfrExmptNonChrtblRltdOrgInd referenceDocumentId="IRS990ScheduleR">false</TrnsfrExmptNonChrtblRltdOrgInd>
+      <ActivitiesConductedPrtshpInd referenceDocumentId="IRS990ScheduleR">false</ActivitiesConductedPrtshpInd>
+      <ScheduleORequiredInd>true</ScheduleORequiredInd>
+      <IRPDocumentCnt>197</IRPDocumentCnt>
+      <IRPDocumentW2GCnt>0</IRPDocumentW2GCnt>
+      <EmployeeCnt>1375</EmployeeCnt>
+      <EmploymentTaxReturnsFiledInd>true</EmploymentTaxReturnsFiledInd>
+      <UnrelatedBusIncmOverLimitInd>true</UnrelatedBusIncmOverLimitInd>
+      <Form990TFiledInd>true</Form990TFiledInd>
+      <ForeignFinancialAccountInd>false</ForeignFinancialAccountInd>
+      <ProhibitedTaxShelterTransInd>false</ProhibitedTaxShelterTransInd>
+      <TaxablePartyNotificationInd>false</TaxablePartyNotificationInd>
+      <NondeductibleContributionsInd>false</NondeductibleContributionsInd>
+      <QuidProQuoContributionsInd>false</QuidProQuoContributionsInd>
+      <Form8282PropertyDisposedOfInd>false</Form8282PropertyDisposedOfInd>
+      <RcvFndsToPayPrsnlBnftCntrctInd>false</RcvFndsToPayPrsnlBnftCntrctInd>
+      <PayPremiumsPrsnlBnftCntrctInd>false</PayPremiumsPrsnlBnftCntrctInd>
+      <IndoorTanningServicesInd>false</IndoorTanningServicesInd>
+      <SubjToTaxRmnrtnExPrchtPymtInd>false</SubjToTaxRmnrtnExPrchtPymtInd>
+      <SubjectToExcsTaxNetInvstIncInd>false</SubjectToExcsTaxNetInvstIncInd>
+      <InfoInScheduleOPartVIInd>X</InfoInScheduleOPartVIInd>
+      <GoverningBodyVotingMembersCnt>7</GoverningBodyVotingMembersCnt>
+      <IndependentVotingMemberCnt>6</IndependentVotingMemberCnt>
+      <FamilyOrBusinessRlnInd>false</FamilyOrBusinessRlnInd>
+      <DelegationOfMgmtDutiesInd>false</DelegationOfMgmtDutiesInd>
+      <ChangeToOrgDocumentsInd>false</ChangeToOrgDocumentsInd>
+      <MaterialDiversionOrMisuseInd>false</MaterialDiversionOrMisuseInd>
+      <MembersOrStockholdersInd>true</MembersOrStockholdersInd>
+      <ElectionOfBoardMembersInd>true</ElectionOfBoardMembersInd>
+      <DecisionsSubjectToApprovaInd>true</DecisionsSubjectToApprovaInd>
+      <MinutesOfGoverningBodyInd>true</MinutesOfGoverningBodyInd>
+      <MinutesOfCommitteesInd>true</MinutesOfCommitteesInd>
+      <OfficerMailingAddressInd>false</OfficerMailingAddressInd>
+      <LocalChaptersInd>false</LocalChaptersInd>
+      <Form990ProvidedToGvrnBodyInd>true</Form990ProvidedToGvrnBodyInd>
+      <ConflictOfInterestPolicyInd>true</ConflictOfInterestPolicyInd>
+      <AnnualDisclosureCoveredPrsnInd>true</AnnualDisclosureCoveredPrsnInd>
+      <RegularMonitoringEnfrcInd>true</RegularMonitoringEnfrcInd>
+      <WhistleblowerPolicyInd>true</WhistleblowerPolicyInd>
+      <DocumentRetentionPolicyInd>true</DocumentRetentionPolicyInd>
+      <CompensationProcessCEOInd>true</CompensationProcessCEOInd>
+      <CompensationProcessOtherInd>true</CompensationProcessOtherInd>
+      <InvestmentInJointVentureInd>false</InvestmentInJointVentureInd>
+      <UponRequestInd>X</UponRequestInd>
+      <BooksInCareOfDetail>
+        <PersonNm>MICHELLE KENNEY</PersonNm>
+        <PhoneNum>9709456535</PhoneNum>
+        <USAddress>
+          <AddressLine1Txt>1906 BLAKE AVENUE</AddressLine1Txt>
+          <CityNm>GLENWOOD SPRINGS</CityNm>
+          <StateAbbreviationCd>CO</StateAbbreviationCd>
+          <ZIPCd>81601</ZIPCd>
+        </USAddress>
+      </BooksInCareOfDetail>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>STEVE VANDERHOOF</PersonNm>
+        <TitleTxt>TREASURER, BOARD MEMBER</TitleTxt>
+        <AverageHoursPerWeekRt>1.0</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.0</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>LYNN KLEAGER</PersonNm>
+        <TitleTxt>SECRETARY, BOARD MEMBER</TitleTxt>
+        <AverageHoursPerWeekRt>1.0</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.0</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>DR BRIAN MURPHY</PersonNm>
+        <TitleTxt>TRUSTEE, BOARD MEMBER</TitleTxt>
+        <AverageHoursPerWeekRt>40.0</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.0</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>547007</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>51624</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MIKE FATTOR</PersonNm>
+        <TitleTxt>TRUSTEE, BOARD MEMBER</TitleTxt>
+        <AverageHoursPerWeekRt>1.0</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.0</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>JOHN BOSCO - Through 72018</PersonNm>
+        <TitleTxt>TREASURER, BOARD MEMBER</TitleTxt>
+        <AverageHoursPerWeekRt>1.0</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.0</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>BRIAN LEASURE</PersonNm>
+        <TitleTxt>CHAIR, BOARD MEMBER</TitleTxt>
+        <AverageHoursPerWeekRt>1.0</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.0</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>NETTIE AVERY</PersonNm>
+        <TitleTxt>TRUSTEE, BOARD MEMBER</TitleTxt>
+        <AverageHoursPerWeekRt>1.0</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.0</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>DR NICOLE MCDERMOTT</PersonNm>
+        <TitleTxt>TRUSTEE, BOARD MEMBER</TitleTxt>
+        <AverageHoursPerWeekRt>1.0</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.0</AverageHoursPerWeekRltdOrgRt>
+        <IndividualTrusteeOrDirectorInd>X</IndividualTrusteeOrDirectorInd>
+        <ReportableCompFromOrgAmt>0</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>0</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>GARY BREWER</PersonNm>
+        <TitleTxt>CHIEF EXECUTIVE OFFICER</TitleTxt>
+        <AverageHoursPerWeekRt>40.0</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.0</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>959937</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>199899</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>CHARLES CREVLING</PersonNm>
+        <TitleTxt>CHIEF FINANCIAL OFFICER</TitleTxt>
+        <AverageHoursPerWeekRt>40.0</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.0</AverageHoursPerWeekRltdOrgRt>
+        <OfficerInd>X</OfficerInd>
+        <ReportableCompFromOrgAmt>375266</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>34775</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>FRANK LAWS MD</PersonNm>
+        <TitleTxt>INTERVENTIONAL CARDIOLOGIST</TitleTxt>
+        <AverageHoursPerWeekRt>40.0</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.0</AverageHoursPerWeekRltdOrgRt>
+        <HighestCompensatedEmployeeInd>X</HighestCompensatedEmployeeInd>
+        <ReportableCompFromOrgAmt>935344</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>27259</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>ROBERT ADAMS MD</PersonNm>
+        <TitleTxt>ORTHOPAEDIC SURGEON</TitleTxt>
+        <AverageHoursPerWeekRt>40.0</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.0</AverageHoursPerWeekRltdOrgRt>
+        <HighestCompensatedEmployeeInd>X</HighestCompensatedEmployeeInd>
+        <ReportableCompFromOrgAmt>1298575</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>52809</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>FERDINAND LIOTTA MD</PersonNm>
+        <TitleTxt>ORTHOPAEDIC SURGEON</TitleTxt>
+        <AverageHoursPerWeekRt>40.0</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.0</AverageHoursPerWeekRltdOrgRt>
+        <HighestCompensatedEmployeeInd>X</HighestCompensatedEmployeeInd>
+        <ReportableCompFromOrgAmt>1014880</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>65899</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>WADE CEOLA MD</PersonNm>
+        <TitleTxt>NEUROSURGEON</TitleTxt>
+        <AverageHoursPerWeekRt>40.0</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.0</AverageHoursPerWeekRltdOrgRt>
+        <HighestCompensatedEmployeeInd>X</HighestCompensatedEmployeeInd>
+        <ReportableCompFromOrgAmt>985522</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>53396</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>MARCUS HOWELL MD</PersonNm>
+        <TitleTxt>INTERVENTIONAL CARDIOLOGIST</TitleTxt>
+        <AverageHoursPerWeekRt>40.0</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.0</AverageHoursPerWeekRltdOrgRt>
+        <HighestCompensatedEmployeeInd>X</HighestCompensatedEmployeeInd>
+        <ReportableCompFromOrgAmt>835482</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>65899</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <Form990PartVIISectionAGrp>
+        <PersonNm>Bonnie Wasli</PersonNm>
+        <TitleTxt>Former CFO</TitleTxt>
+        <AverageHoursPerWeekRt>40.0</AverageHoursPerWeekRt>
+        <AverageHoursPerWeekRltdOrgRt>0.0</AverageHoursPerWeekRltdOrgRt>
+        <FormerOfcrDirectorTrusteeInd>X</FormerOfcrDirectorTrusteeInd>
+        <ReportableCompFromOrgAmt>158198</ReportableCompFromOrgAmt>
+        <ReportableCompFromRltdOrgAmt>0</ReportableCompFromRltdOrgAmt>
+        <OtherCompensationAmt>46382</OtherCompensationAmt>
+      </Form990PartVIISectionAGrp>
+      <TotalReportableCompFromOrgAmt>7110211</TotalReportableCompFromOrgAmt>
+      <TotReportableCompRltdOrgAmt>0</TotReportableCompRltdOrgAmt>
+      <TotalOtherCompensationAmt>597942</TotalOtherCompensationAmt>
+      <IndivRcvdGreaterThan100KCnt>165</IndivRcvdGreaterThan100KCnt>
+      <FormerOfcrEmployeesListedInd>true</FormerOfcrEmployeesListedInd>
+      <TotalCompGreaterThan150KInd>true</TotalCompGreaterThan150KInd>
+      <CompensationFromOtherSrcsInd>false</CompensationFromOtherSrcsInd>
+      <ContractorCompensationGrp>
+        <ContractorName>
+          <PersonNm>LEIDOS HEALTH</PersonNm>
+        </ContractorName>
+        <ContractorAddress>
+          <USAddress>
+            <AddressLine1Txt>705 E MAIN ST</AddressLine1Txt>
+            <CityNm>WESTFIELD</CityNm>
+            <StateAbbreviationCd>IN</StateAbbreviationCd>
+            <ZIPCd>46074</ZIPCd>
+          </USAddress>
+        </ContractorAddress>
+        <ServicesDesc>CONSULTING</ServicesDesc>
+        <CompensationAmt>1938089</CompensationAmt>
+      </ContractorCompensationGrp>
+      <ContractorCompensationGrp>
+        <ContractorName>
+          <PersonNm>INLAND NORTHWEST HEALTH SERVICES</PersonNm>
+        </ContractorName>
+        <ContractorAddress>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 469</AddressLine1Txt>
+            <CityNm>SPOKANE</CityNm>
+            <StateAbbreviationCd>WA</StateAbbreviationCd>
+            <ZIPCd>992100469</ZIPCd>
+          </USAddress>
+        </ContractorAddress>
+        <ServicesDesc>CONSULTING</ServicesDesc>
+        <CompensationAmt>1164622</CompensationAmt>
+      </ContractorCompensationGrp>
+      <ContractorCompensationGrp>
+        <ContractorName>
+          <PersonNm>GLENWOOD ANESTHESIA PROFESSIONALS</PersonNm>
+        </ContractorName>
+        <ContractorAddress>
+          <USAddress>
+            <AddressLine1Txt>PO BOX 2629</AddressLine1Txt>
+            <CityNm>GLENWOOD SPRINGS</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81602</ZIPCd>
+          </USAddress>
+        </ContractorAddress>
+        <ServicesDesc>PHYSICIAN LOCUM TENE</ServicesDesc>
+        <CompensationAmt>850192</CompensationAmt>
+      </ContractorCompensationGrp>
+      <ContractorCompensationGrp>
+        <ContractorName>
+          <PersonNm>THE EXECUSEARCH GROUP</PersonNm>
+        </ContractorName>
+        <ContractorAddress>
+          <USAddress>
+            <AddressLine1Txt>675 THIRD AVE 5TH FLOOR</AddressLine1Txt>
+            <CityNm>NEW YORK</CityNm>
+            <StateAbbreviationCd>NY</StateAbbreviationCd>
+            <ZIPCd>10017</ZIPCd>
+          </USAddress>
+        </ContractorAddress>
+        <ServicesDesc>PHYSICIAN LOCUM TENE</ServicesDesc>
+        <CompensationAmt>733880</CompensationAmt>
+      </ContractorCompensationGrp>
+      <ContractorCompensationGrp>
+        <ContractorName>
+          <PersonNm>HALL RENDER KILLIAN HEATH LYMA</PersonNm>
+        </ContractorName>
+        <ContractorAddress>
+          <USAddress>
+            <AddressLine1Txt>39778 TREASURY CENTER</AddressLine1Txt>
+            <CityNm>CHICAGO</CityNm>
+            <StateAbbreviationCd>IL</StateAbbreviationCd>
+            <ZIPCd>606949700</ZIPCd>
+          </USAddress>
+        </ContractorAddress>
+        <ServicesDesc>LEGAL SERVICES</ServicesDesc>
+        <CompensationAmt>653638</CompensationAmt>
+      </ContractorCompensationGrp>
+      <CntrctRcvdGreaterThan100KCnt>25</CntrctRcvdGreaterThan100KCnt>
+      <RelatedOrganizationsAmt>633781</RelatedOrganizationsAmt>
+      <AllOtherContributionsAmt>144302</AllOtherContributionsAmt>
+      <TotalContributionsAmt>778083</TotalContributionsAmt>
+      <ProgramServiceRevenueGrp>
+        <Desc>PATIENT SERVICE REVENUE</Desc>
+        <BusinessCd>621400</BusinessCd>
+        <TotalRevenueColumnAmt>247369595</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>247369595</RelatedOrExemptFuncIncomeAmt>
+      </ProgramServiceRevenueGrp>
+      <ProgramServiceRevenueGrp>
+        <Desc>DAY CARE</Desc>
+        <BusinessCd>624410</BusinessCd>
+        <TotalRevenueColumnAmt>219440</TotalRevenueColumnAmt>
+        <ExclusionAmt>219440</ExclusionAmt>
+      </ProgramServiceRevenueGrp>
+      <ProgramServiceRevenueGrp>
+        <Desc>MEDICAL/PHARMACY</Desc>
+        <BusinessCd>561499</BusinessCd>
+        <TotalRevenueColumnAmt>264452</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>264452</RelatedOrExemptFuncIncomeAmt>
+      </ProgramServiceRevenueGrp>
+      <ProgramServiceRevenueGrp>
+        <Desc>MISCELLANEOUS PROGRAM INCOME</Desc>
+        <BusinessCd>900099</BusinessCd>
+        <TotalRevenueColumnAmt>2544599</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>2544599</RelatedOrExemptFuncIncomeAmt>
+      </ProgramServiceRevenueGrp>
+      <TotalProgramServiceRevenueAmt>250398086</TotalProgramServiceRevenueAmt>
+      <InvestmentIncomeGrp>
+        <TotalRevenueColumnAmt>6006952</TotalRevenueColumnAmt>
+        <ExclusionAmt>6006952</ExclusionAmt>
+      </InvestmentIncomeGrp>
+      <IncmFromInvestBondProceedsGrp>
+        <TotalRevenueColumnAmt>0</TotalRevenueColumnAmt>
+      </IncmFromInvestBondProceedsGrp>
+      <RoyaltiesRevenueGrp>
+        <TotalRevenueColumnAmt>0</TotalRevenueColumnAmt>
+      </RoyaltiesRevenueGrp>
+      <GrossRentsGrp>
+        <RealAmt>918278</RealAmt>
+      </GrossRentsGrp>
+      <LessRentalExpensesGrp>
+        <RealAmt>1022223</RealAmt>
+      </LessRentalExpensesGrp>
+      <RentalIncomeOrLossGrp>
+        <RealAmt>-103945</RealAmt>
+        <PersonalAmt>0</PersonalAmt>
+      </RentalIncomeOrLossGrp>
+      <NetRentalIncomeOrLossGrp>
+        <TotalRevenueColumnAmt>-103945</TotalRevenueColumnAmt>
+        <ExclusionAmt>-103945</ExclusionAmt>
+      </NetRentalIncomeOrLossGrp>
+      <GrossAmountSalesAssetsGrp>
+        <SecuritiesAmt>718095</SecuritiesAmt>
+        <OtherAmt>168500</OtherAmt>
+      </GrossAmountSalesAssetsGrp>
+      <LessCostOthBasisSalesExpnssGrp>
+        <SecuritiesAmt>367839</SecuritiesAmt>
+      </LessCostOthBasisSalesExpnssGrp>
+      <GainOrLossGrp>
+        <SecuritiesAmt>350256</SecuritiesAmt>
+        <OtherAmt>168500</OtherAmt>
+      </GainOrLossGrp>
+      <NetGainOrLossInvestmentsGrp>
+        <TotalRevenueColumnAmt>518756</TotalRevenueColumnAmt>
+        <ExclusionAmt>518756</ExclusionAmt>
+      </NetGainOrLossInvestmentsGrp>
+      <FundraisingGrossIncomeAmt>0</FundraisingGrossIncomeAmt>
+      <FundraisingDirectExpensesAmt>0</FundraisingDirectExpensesAmt>
+      <NetIncmFromFundraisingEvtGrp>
+        <TotalRevenueColumnAmt>0</TotalRevenueColumnAmt>
+      </NetIncmFromFundraisingEvtGrp>
+      <GamingGrossIncomeAmt>0</GamingGrossIncomeAmt>
+      <GamingDirectExpensesAmt>0</GamingDirectExpensesAmt>
+      <NetIncomeFromGamingGrp>
+        <TotalRevenueColumnAmt>0</TotalRevenueColumnAmt>
+      </NetIncomeFromGamingGrp>
+      <GrossSalesOfInventoryAmt>3333155</GrossSalesOfInventoryAmt>
+      <CostOfGoodsSoldAmt>2851461</CostOfGoodsSoldAmt>
+      <NetIncomeOrLossGrp>
+        <TotalRevenueColumnAmt>481694</TotalRevenueColumnAmt>
+        <UnrelatedBusinessRevenueAmt>222342</UnrelatedBusinessRevenueAmt>
+        <ExclusionAmt>259352</ExclusionAmt>
+      </NetIncomeOrLossGrp>
+      <OtherRevenueMiscGrp>
+        <Desc>CAFETERIA</Desc>
+        <BusinessCd>722514</BusinessCd>
+        <TotalRevenueColumnAmt>1411854</TotalRevenueColumnAmt>
+        <ExclusionAmt>1411854</ExclusionAmt>
+      </OtherRevenueMiscGrp>
+      <OtherRevenueMiscGrp>
+        <Desc>EXTINGUISHMENT OF DEBT</Desc>
+        <BusinessCd>900099</BusinessCd>
+        <TotalRevenueColumnAmt>-282912</TotalRevenueColumnAmt>
+        <ExclusionAmt>-282912</ExclusionAmt>
+      </OtherRevenueMiscGrp>
+      <OtherRevenueTotalAmt>1128942</OtherRevenueTotalAmt>
+      <TotalRevenueGrp>
+        <TotalRevenueColumnAmt>259208568</TotalRevenueColumnAmt>
+        <RelatedOrExemptFuncIncomeAmt>250178646</RelatedOrExemptFuncIncomeAmt>
+        <UnrelatedBusinessRevenueAmt>222342</UnrelatedBusinessRevenueAmt>
+        <ExclusionAmt>8029497</ExclusionAmt>
+      </TotalRevenueGrp>
+      <GrantsToDomesticOrgsGrp>
+        <TotalAmt>196698</TotalAmt>
+        <ProgramServicesAmt>196698</ProgramServicesAmt>
+      </GrantsToDomesticOrgsGrp>
+      <GrantsToDomesticIndividualsGrp>
+        <TotalAmt>0</TotalAmt>
+      </GrantsToDomesticIndividualsGrp>
+      <ForeignGrantsGrp>
+        <TotalAmt>0</TotalAmt>
+      </ForeignGrantsGrp>
+      <BenefitsToMembersGrp>
+        <TotalAmt>0</TotalAmt>
+      </BenefitsToMembersGrp>
+      <CompCurrentOfcrDirectorsGrp>
+        <TotalAmt>2168508</TotalAmt>
+        <ManagementAndGeneralAmt>2168508</ManagementAndGeneralAmt>
+      </CompCurrentOfcrDirectorsGrp>
+      <CompDisqualPersonsGrp>
+        <TotalAmt>204580</TotalAmt>
+        <ManagementAndGeneralAmt>204580</ManagementAndGeneralAmt>
+      </CompDisqualPersonsGrp>
+      <OtherSalariesAndWagesGrp>
+        <TotalAmt>86094695</TotalAmt>
+        <ProgramServicesAmt>69777422</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>16317273</ManagementAndGeneralAmt>
+      </OtherSalariesAndWagesGrp>
+      <PensionPlanContributionsGrp>
+        <TotalAmt>3211029</TotalAmt>
+        <ProgramServicesAmt>2539790</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>671239</ManagementAndGeneralAmt>
+      </PensionPlanContributionsGrp>
+      <OtherEmployeeBenefitsGrp>
+        <TotalAmt>23165627</TotalAmt>
+        <ProgramServicesAmt>18311853</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>4853774</ManagementAndGeneralAmt>
+      </OtherEmployeeBenefitsGrp>
+      <PayrollTaxesGrp>
+        <TotalAmt>5279550</TotalAmt>
+        <ProgramServicesAmt>4166337</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>1113213</ManagementAndGeneralAmt>
+      </PayrollTaxesGrp>
+      <FeesForServicesManagementGrp>
+        <TotalAmt>0</TotalAmt>
+      </FeesForServicesManagementGrp>
+      <FeesForServicesLegalGrp>
+        <TotalAmt>898008</TotalAmt>
+        <ManagementAndGeneralAmt>898008</ManagementAndGeneralAmt>
+      </FeesForServicesLegalGrp>
+      <FeesForServicesAccountingGrp>
+        <TotalAmt>137692</TotalAmt>
+        <ManagementAndGeneralAmt>137692</ManagementAndGeneralAmt>
+      </FeesForServicesAccountingGrp>
+      <FeesForServicesLobbyingGrp>
+        <TotalAmt>9262</TotalAmt>
+        <ManagementAndGeneralAmt>9262</ManagementAndGeneralAmt>
+      </FeesForServicesLobbyingGrp>
+      <FeesForServicesProfFundraising>
+        <TotalAmt>0</TotalAmt>
+      </FeesForServicesProfFundraising>
+      <FeesForSrvcInvstMgmntFeesGrp>
+        <TotalAmt>20622</TotalAmt>
+        <ManagementAndGeneralAmt>20622</ManagementAndGeneralAmt>
+      </FeesForSrvcInvstMgmntFeesGrp>
+      <FeesForServicesOtherGrp>
+        <TotalAmt>20025598</TotalAmt>
+        <ProgramServicesAmt>13830442</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>6195156</ManagementAndGeneralAmt>
+      </FeesForServicesOtherGrp>
+      <AdvertisingGrp>
+        <TotalAmt>364160</TotalAmt>
+        <ProgramServicesAmt>41486</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>322674</ManagementAndGeneralAmt>
+      </AdvertisingGrp>
+      <OfficeExpensesGrp>
+        <TotalAmt>1268050</TotalAmt>
+        <ProgramServicesAmt>541367</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>726683</ManagementAndGeneralAmt>
+      </OfficeExpensesGrp>
+      <InformationTechnologyGrp>
+        <TotalAmt>7803710</TotalAmt>
+        <ProgramServicesAmt>7803710</ProgramServicesAmt>
+      </InformationTechnologyGrp>
+      <RoyaltiesGrp>
+        <TotalAmt>0</TotalAmt>
+      </RoyaltiesGrp>
+      <OccupancyGrp>
+        <TotalAmt>2693190</TotalAmt>
+        <ProgramServicesAmt>1971642</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>721548</ManagementAndGeneralAmt>
+      </OccupancyGrp>
+      <TravelGrp>
+        <TotalAmt>94741</TotalAmt>
+        <ProgramServicesAmt>85080</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>9661</ManagementAndGeneralAmt>
+      </TravelGrp>
+      <PymtTravelEntrtnmntPubOfclGrp>
+        <TotalAmt>0</TotalAmt>
+      </PymtTravelEntrtnmntPubOfclGrp>
+      <ConferencesMeetingsGrp>
+        <TotalAmt>449015</TotalAmt>
+        <ProgramServicesAmt>344795</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>104220</ManagementAndGeneralAmt>
+      </ConferencesMeetingsGrp>
+      <InterestGrp>
+        <TotalAmt>4885146</TotalAmt>
+        <ProgramServicesAmt>4019949</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>865197</ManagementAndGeneralAmt>
+      </InterestGrp>
+      <PaymentsToAffiliatesGrp>
+        <TotalAmt>0</TotalAmt>
+      </PaymentsToAffiliatesGrp>
+      <DepreciationDepletionGrp>
+        <TotalAmt>16972730</TotalAmt>
+        <ProgramServicesAmt>14219461</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>2753269</ManagementAndGeneralAmt>
+      </DepreciationDepletionGrp>
+      <InsuranceGrp>
+        <TotalAmt>1153667</TotalAmt>
+        <ProgramServicesAmt>863805</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>289862</ManagementAndGeneralAmt>
+      </InsuranceGrp>
+      <OtherExpensesGrp>
+        <Desc>MEDICAL SUPPLIES</Desc>
+        <TotalAmt>29385832</TotalAmt>
+        <ProgramServicesAmt>29107732</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>278100</ManagementAndGeneralAmt>
+      </OtherExpensesGrp>
+      <OtherExpensesGrp>
+        <Desc>BAD DEBT</Desc>
+        <TotalAmt>5284061</TotalAmt>
+        <ProgramServicesAmt>5284061</ProgramServicesAmt>
+      </OtherExpensesGrp>
+      <OtherExpensesGrp>
+        <Desc>MEDICAID PROVIDER FEES</Desc>
+        <TotalAmt>7890865</TotalAmt>
+        <ProgramServicesAmt>7890865</ProgramServicesAmt>
+      </OtherExpensesGrp>
+      <OtherExpensesGrp>
+        <Desc>REPAIRS &amp; MAINTENANCE</Desc>
+        <TotalAmt>4422364</TotalAmt>
+        <ProgramServicesAmt>3630598</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>791766</ManagementAndGeneralAmt>
+      </OtherExpensesGrp>
+      <AllOtherExpensesGrp>
+        <TotalAmt>676489</TotalAmt>
+        <ProgramServicesAmt>318821</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>357668</ManagementAndGeneralAmt>
+      </AllOtherExpensesGrp>
+      <TotalFunctionalExpensesGrp>
+        <TotalAmt>224755889</TotalAmt>
+        <ProgramServicesAmt>184945914</ProgramServicesAmt>
+        <ManagementAndGeneralAmt>39809975</ManagementAndGeneralAmt>
+        <FundraisingAmt>0</FundraisingAmt>
+      </TotalFunctionalExpensesGrp>
+      <CashNonInterestBearingGrp>
+        <BOYAmt>12542651</BOYAmt>
+        <EOYAmt>225283</EOYAmt>
+      </CashNonInterestBearingGrp>
+      <SavingsAndTempCashInvstGrp>
+        <BOYAmt>51812658</BOYAmt>
+        <EOYAmt>67020236</EOYAmt>
+      </SavingsAndTempCashInvstGrp>
+      <PledgesAndGrantsReceivableGrp>
+        <BOYAmt>0</BOYAmt>
+        <EOYAmt>0</EOYAmt>
+      </PledgesAndGrantsReceivableGrp>
+      <AccountsReceivableGrp>
+        <BOYAmt>28185028</BOYAmt>
+        <EOYAmt>32279314</EOYAmt>
+      </AccountsReceivableGrp>
+      <ReceivablesFromOfficersEtcGrp>
+        <BOYAmt>0</BOYAmt>
+        <EOYAmt>0</EOYAmt>
+      </ReceivablesFromOfficersEtcGrp>
+      <RcvblFromDisqualifiedPrsnGrp>
+        <BOYAmt>0</BOYAmt>
+        <EOYAmt>0</EOYAmt>
+      </RcvblFromDisqualifiedPrsnGrp>
+      <OthNotesLoansReceivableNetGrp>
+        <BOYAmt>0</BOYAmt>
+        <EOYAmt>0</EOYAmt>
+      </OthNotesLoansReceivableNetGrp>
+      <InventoriesForSaleOrUseGrp>
+        <BOYAmt>4202903</BOYAmt>
+        <EOYAmt>4440503</EOYAmt>
+      </InventoriesForSaleOrUseGrp>
+      <PrepaidExpensesDefrdChargesGrp>
+        <BOYAmt>4216310</BOYAmt>
+        <EOYAmt>4096102</EOYAmt>
+      </PrepaidExpensesDefrdChargesGrp>
+      <LandBldgEquipCostOrOtherBssAmt>362225449</LandBldgEquipCostOrOtherBssAmt>
+      <LandBldgEquipAccumDeprecAmt>166376910</LandBldgEquipAccumDeprecAmt>
+      <LandBldgEquipBasisNetGrp>
+        <BOYAmt>198732151</BOYAmt>
+        <EOYAmt>195848539</EOYAmt>
+      </LandBldgEquipBasisNetGrp>
+      <InvestmentsPubTradedSecGrp>
+        <BOYAmt>162303775</BOYAmt>
+        <EOYAmt>179061997</EOYAmt>
+      </InvestmentsPubTradedSecGrp>
+      <InvestmentsOtherSecuritiesGrp>
+        <BOYAmt>0</BOYAmt>
+        <EOYAmt>0</EOYAmt>
+      </InvestmentsOtherSecuritiesGrp>
+      <InvestmentsProgramRelatedGrp>
+        <BOYAmt>6692743</BOYAmt>
+        <EOYAmt>6545107</EOYAmt>
+      </InvestmentsProgramRelatedGrp>
+      <IntangibleAssetsGrp>
+        <BOYAmt>0</BOYAmt>
+        <EOYAmt>0</EOYAmt>
+      </IntangibleAssetsGrp>
+      <OtherAssetsTotalGrp>
+        <BOYAmt>5674270</BOYAmt>
+        <EOYAmt>6018918</EOYAmt>
+      </OtherAssetsTotalGrp>
+      <TotalAssetsGrp>
+        <BOYAmt>474362489</BOYAmt>
+        <EOYAmt>495535999</EOYAmt>
+      </TotalAssetsGrp>
+      <AccountsPayableAccrExpnssGrp>
+        <BOYAmt>28342123</BOYAmt>
+        <EOYAmt>22609627</EOYAmt>
+      </AccountsPayableAccrExpnssGrp>
+      <GrantsPayableGrp>
+        <BOYAmt>0</BOYAmt>
+        <EOYAmt>0</EOYAmt>
+      </GrantsPayableGrp>
+      <DeferredRevenueGrp>
+        <BOYAmt>29608</BOYAmt>
+        <EOYAmt>86636</EOYAmt>
+      </DeferredRevenueGrp>
+      <TaxExemptBondLiabilitiesGrp>
+        <BOYAmt>145155000</BOYAmt>
+        <EOYAmt>142266803</EOYAmt>
+      </TaxExemptBondLiabilitiesGrp>
+      <EscrowAccountLiabilityGrp>
+        <BOYAmt>0</BOYAmt>
+        <EOYAmt>0</EOYAmt>
+      </EscrowAccountLiabilityGrp>
+      <LoansFromOfficersDirectorsGrp>
+        <BOYAmt>0</BOYAmt>
+        <EOYAmt>0</EOYAmt>
+      </LoansFromOfficersDirectorsGrp>
+      <MortgNotesPyblScrdInvstPropGrp>
+        <BOYAmt>1747802</BOYAmt>
+        <EOYAmt>1383736</EOYAmt>
+      </MortgNotesPyblScrdInvstPropGrp>
+      <UnsecuredNotesLoansPayableGrp>
+        <BOYAmt>0</BOYAmt>
+        <EOYAmt>0</EOYAmt>
+      </UnsecuredNotesLoansPayableGrp>
+      <OtherLiabilitiesGrp>
+        <BOYAmt>8566389</BOYAmt>
+        <EOYAmt>7738113</EOYAmt>
+      </OtherLiabilitiesGrp>
+      <TotalLiabilitiesGrp>
+        <BOYAmt>183840922</BOYAmt>
+        <EOYAmt>174084915</EOYAmt>
+      </TotalLiabilitiesGrp>
+      <OrganizationFollowsSFAS117Ind>X</OrganizationFollowsSFAS117Ind>
+      <UnrestrictedNetAssetsGrp>
+        <BOYAmt>286906296</BOYAmt>
+        <EOYAmt>317179714</EOYAmt>
+      </UnrestrictedNetAssetsGrp>
+      <TemporarilyRstrNetAssetsGrp>
+        <BOYAmt>3615271</BOYAmt>
+        <EOYAmt>4271370</EOYAmt>
+      </TemporarilyRstrNetAssetsGrp>
+      <PermanentlyRstrNetAssetsGrp>
+        <BOYAmt>0</BOYAmt>
+        <EOYAmt>0</EOYAmt>
+      </PermanentlyRstrNetAssetsGrp>
+      <TotalNetAssetsFundBalanceGrp>
+        <BOYAmt>290521567</BOYAmt>
+        <EOYAmt>321451084</EOYAmt>
+      </TotalNetAssetsFundBalanceGrp>
+      <TotLiabNetAssetsFundBalanceGrp>
+        <BOYAmt>474362489</BOYAmt>
+        <EOYAmt>495535999</EOYAmt>
+      </TotLiabNetAssetsFundBalanceGrp>
+      <InfoInScheduleOPartXIInd>X</InfoInScheduleOPartXIInd>
+      <ReconcilationRevenueExpnssAmt>34452679</ReconcilationRevenueExpnssAmt>
+      <NetUnrlzdGainsLossesInvstAmt>-3553427</NetUnrlzdGainsLossesInvstAmt>
+      <OtherChangesInNetAssetsAmt>30265</OtherChangesInNetAssetsAmt>
+      <MethodOfAccountingAccrualInd>X</MethodOfAccountingAccrualInd>
+      <AccountantCompileOrReviewInd>false</AccountantCompileOrReviewInd>
+      <FSAuditedInd>true</FSAuditedInd>
+      <FSAuditedBasisGrp>
+        <ConsolidatedBasisFinclStmtInd>X</ConsolidatedBasisFinclStmtInd>
+      </FSAuditedBasisGrp>
+      <AuditCommitteeInd>true</AuditCommitteeInd>
+      <FederalGrantAuditRequiredInd>false</FederalGrantAuditRequiredInd>
+    </IRS990>
+    <IRS990ScheduleA documentId="IRS990ScheduleA">
+      <HospitalInd>X</HospitalInd>
+    </IRS990ScheduleA>
+    <IRS990ScheduleB documentId="IRS990ScheduleB">
+      <ContributorInformationGrp>
+        <ContributorNum>RESTRICTED</ContributorNum>
+        <ContributorBusinessName>
+          <BusinessNameLine1>RESTRICTED</BusinessNameLine1>
+        </ContributorBusinessName>
+        <ContributorUSAddress>
+          <AddressLine1>RESTRICTED</AddressLine1>
+          <AddressLine2>RESTRICTED</AddressLine2>
+          <City>RESTRICTED</City>
+          <State>RESTRICTED</State>
+          <ZIPCode>RESTRICTED</ZIPCode>
+        </ContributorUSAddress>
+        <TotalContributionsAmt>RESTRICTED</TotalContributionsAmt>
+      </ContributorInformationGrp>
+    </IRS990ScheduleB>
+    <IRS990ScheduleC documentId="IRS990ScheduleC">
+      <TotalGrassrootsLobbyingGrp />
+      <TotalDirectLobbyingGrp />
+      <TotalLobbyingExpendGrp />
+      <OtherExemptPurposeExpendGrp />
+      <TotalExemptPurposeExpendGrp />
+      <LobbyingNontaxableAmountGrp />
+      <GrassrootsNontaxableGrp />
+      <TotLbbyngGrassrootMnsNonTxGrp />
+      <TotLbbyExpendMnsLbbyngNonTxGrp />
+      <VolunteersInd>false</VolunteersInd>
+      <PaidStaffOrManagementInd>false</PaidStaffOrManagementInd>
+      <MediaAdvertisementsInd>false</MediaAdvertisementsInd>
+      <MailingsMembersInd>false</MailingsMembersInd>
+      <PublicationsOrBroadcastInd>false</PublicationsOrBroadcastInd>
+      <GrantsOtherOrganizationsInd>false</GrantsOtherOrganizationsInd>
+      <DirectContactLegislatorsInd>false</DirectContactLegislatorsInd>
+      <RalliesDemonstrationsInd>false</RalliesDemonstrationsInd>
+      <OtherActivitiesInd>true</OtherActivitiesInd>
+      <OtherActivitiesAmt>9262</OtherActivitiesAmt>
+      <TotalLobbyingExpendituresAmt>9262</TotalLobbyingExpendituresAmt>
+      <NotDescribedSection501c3Ind>false</NotDescribedSection501c3Ind>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Schedule C, Part II-B, Line 1i</FormAndLineReferenceDesc>
+        <ExplanationTxt>The amount on line 1i represents the Portion of annual dues paid to the American Hospital Association and Colorado Health Association that were used for lobbying purposes.</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleC>
+    <IRS990ScheduleD documentId="IRS990ScheduleD">
+      <ArtPublicExhibitionAmountsGrp />
+      <HeldWorksArtGrp />
+      <CYEndwmtFundGrp>
+        <BeginningYearBalanceAmt>167094</BeginningYearBalanceAmt>
+        <InvestmentEarningsOrLossesAmt>-2310</InvestmentEarningsOrLossesAmt>
+        <EndYearBalanceAmt>164784</EndYearBalanceAmt>
+      </CYEndwmtFundGrp>
+      <CYMinus1YrEndwmtFundGrp>
+        <BeginningYearBalanceAmt>150596</BeginningYearBalanceAmt>
+        <InvestmentEarningsOrLossesAmt>16498</InvestmentEarningsOrLossesAmt>
+        <EndYearBalanceAmt>167094</EndYearBalanceAmt>
+      </CYMinus1YrEndwmtFundGrp>
+      <CYMinus2YrEndwmtFundGrp>
+        <BeginningYearBalanceAmt>142158</BeginningYearBalanceAmt>
+        <InvestmentEarningsOrLossesAmt>8438</InvestmentEarningsOrLossesAmt>
+        <EndYearBalanceAmt>150596</EndYearBalanceAmt>
+      </CYMinus2YrEndwmtFundGrp>
+      <CYMinus3YrEndwmtFundGrp>
+        <BeginningYearBalanceAmt>148027</BeginningYearBalanceAmt>
+        <InvestmentEarningsOrLossesAmt>-5869</InvestmentEarningsOrLossesAmt>
+        <EndYearBalanceAmt>142158</EndYearBalanceAmt>
+      </CYMinus3YrEndwmtFundGrp>
+      <CYMinus4YrEndwmtFundGrp>
+        <BeginningYearBalanceAmt>137646</BeginningYearBalanceAmt>
+        <InvestmentEarningsOrLossesAmt>10381</InvestmentEarningsOrLossesAmt>
+        <EndYearBalanceAmt>148027</EndYearBalanceAmt>
+      </CYMinus4YrEndwmtFundGrp>
+      <BoardDesignatedBalanceEOYPct>1.00000</BoardDesignatedBalanceEOYPct>
+      <EndowmentsHeldUnrelatedOrgInd>false</EndowmentsHeldUnrelatedOrgInd>
+      <EndowmentsHeldRelatedOrgInd>true</EndowmentsHeldRelatedOrgInd>
+      <RelatedOrgListSchRInd>true</RelatedOrgListSchRInd>
+      <LandGrp>
+        <OtherCostOrOtherBasisAmt>11235089</OtherCostOrOtherBasisAmt>
+        <BookValueAmt>11235089</BookValueAmt>
+      </LandGrp>
+      <BuildingsGrp>
+        <OtherCostOrOtherBasisAmt>247740777</OtherCostOrOtherBasisAmt>
+        <DepreciationAmt>92365705</DepreciationAmt>
+        <BookValueAmt>155375072</BookValueAmt>
+      </BuildingsGrp>
+      <LeaseholdImprovementsGrp>
+        <OtherCostOrOtherBasisAmt>2685884</OtherCostOrOtherBasisAmt>
+        <DepreciationAmt>1970660</DepreciationAmt>
+        <BookValueAmt>715224</BookValueAmt>
+      </LeaseholdImprovementsGrp>
+      <EquipmentGrp>
+        <OtherCostOrOtherBasisAmt>87718740</OtherCostOrOtherBasisAmt>
+        <DepreciationAmt>64478731</DepreciationAmt>
+        <BookValueAmt>23240009</BookValueAmt>
+      </EquipmentGrp>
+      <OtherLandBuildingsGrp>
+        <OtherCostOrOtherBasisAmt>12844959</OtherCostOrOtherBasisAmt>
+        <DepreciationAmt>7561814</DepreciationAmt>
+        <BookValueAmt>5283145</BookValueAmt>
+      </OtherLandBuildingsGrp>
+      <TotalBookValueLandBuildingsAmt>195848539</TotalBookValueLandBuildingsAmt>
+      <FederalIncomeTaxLiabilityAmt>0</FederalIncomeTaxLiabilityAmt>
+      <OtherLiabilitiesOrgGrp>
+        <Desc>UNAMORTIZED BOND ISSUE PREMIUM</Desc>
+        <Amt>7738113</Amt>
+      </OtherLiabilitiesOrgGrp>
+      <TotalLiabilityAmt>7738113</TotalLiabilityAmt>
+      <TotalRevEtcAuditedFinclStmtAmt>254134710</TotalRevEtcAuditedFinclStmtAmt>
+      <NetUnrealizedGainsInvstAmt>-3553427</NetUnrealizedGainsInvstAmt>
+      <OtherRevenueAmt>4567605</OtherRevenueAmt>
+      <RevenueNotReportedAmt>1014178</RevenueNotReportedAmt>
+      <RevenueSubtotalAmt>253120532</RevenueSubtotalAmt>
+      <OtherRevenuesNotIncludedAmt>6088036</OtherRevenuesNotIncludedAmt>
+      <RevenueNotReportedFinclStmtAmt>6088036</RevenueNotReportedFinclStmtAmt>
+      <TotalRevenuePerForm990Amt>259208568</TotalRevenuePerForm990Amt>
+      <TotExpnsEtcAuditedFinclStmtAmt>223205193</TotExpnsEtcAuditedFinclStmtAmt>
+      <OtherExpensesIncludedAmt>3873684</OtherExpensesIncludedAmt>
+      <ExpensesNotReportedAmt>3873684</ExpensesNotReportedAmt>
+      <ExpensesSubtotalAmt>219331509</ExpensesSubtotalAmt>
+      <OtherExpensesNotIncludedAmt>5424380</OtherExpensesNotIncludedAmt>
+      <ExpensesNotRptFinclStmtAmt>5424380</ExpensesNotRptFinclStmtAmt>
+      <TotalExpensesPerForm990Amt>224755889</TotalExpensesPerForm990Amt>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Schedule D, Part X, Line 2</FormAndLineReferenceDesc>
+        <ExplanationTxt>MANAGEMENT HAS EVALUATED THEIR INCOME TAX POSITIONS UNDER THE GUIDANCE INCLUDED IN ASC 740. BASED ON THEIR REVIEW, MANAGEMENT HAS NOT IDENTIFIED ANY MATERIAL UNCERTAIN TAX POSITIONS TO BE RECORDED OR DISCLOSED IN THE FINANCIAL STATEMENTS.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Schedule D, Part XI, Line 2D</FormAndLineReferenceDesc>
+        <ExplanationTxt>Revenue On Books, Not on Return: Change in Beneficial Interest in Foundation 693,921 Rental Expense Reclassed to Revenue 1,022,223 Cost of Goods Sold 2,851,461 Total 4,567,605</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Schedule D, part XI, Line 4b</FormAndLineReferenceDesc>
+        <ExplanationTxt>Revenue on Return, Not on Books: Loss On Equity Method Investment 147,636 Bad Debt Expense 5,284,061 Income from Grantor Trust 645,089 Reconciling Item with Foundation 11,250 Total 6,088,036</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Schedule D, Part XII, Line 2d</FormAndLineReferenceDesc>
+        <ExplanationTxt>Expense on Books, Not on Return: Rental Expense Reclassed to revenue 1,022,223 Cost of Goods Sold 2,851,461 total 3,873,684</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Schedule D, part XII, Line 4b</FormAndLineReferenceDesc>
+        <ExplanationTxt>Expense on Return, Not on Books: Bad Debt Expense 5,284,061 Expense from Grantor Trust 129,069 Reconciling Item with Foundation 11,250 total 5,424,380</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleD>
+    <IRS990ScheduleH documentId="IRS990ScheduleH">
+      <FinancialAssistancePolicyInd>true</FinancialAssistancePolicyInd>
+      <WrittenPolicyInd>true</WrittenPolicyInd>
+      <AllHospitalsPolicyInd>X</AllHospitalsPolicyInd>
+      <FPGReferenceFreeCareInd>true</FPGReferenceFreeCareInd>
+      <FreeCareOthPercentageGrp>
+        <OtherInd>X</OtherInd>
+        <FreeCareOtherPct>199.</FreeCareOtherPct>
+      </FreeCareOthPercentageGrp>
+      <FPGReferenceDiscountedCareInd>true</FPGReferenceDiscountedCareInd>
+      <DiscountedCareOthPercentageGrp>
+        <OtherInd>X</OtherInd>
+        <DiscountedCareOtherPct>500.</DiscountedCareOtherPct>
+      </DiscountedCareOthPercentageGrp>
+      <FreeCareMedicallyIndigentInd>true</FreeCareMedicallyIndigentInd>
+      <FinancialAssistanceBudgetInd>true</FinancialAssistanceBudgetInd>
+      <ExpensesExceedBudgetInd>true</ExpensesExceedBudgetInd>
+      <UnableToProvideCareInd>false</UnableToProvideCareInd>
+      <AnnualCommunityBnftReportInd>true</AnnualCommunityBnftReportInd>
+      <ReportPublicallyAvailableInd>true</ReportPublicallyAvailableInd>
+      <FinancialAssistanceAtCostTyp>
+        <TotalCommunityBenefitExpnsAmt>5872759</TotalCommunityBenefitExpnsAmt>
+        <NetCommunityBenefitExpnsAmt>5872759</NetCommunityBenefitExpnsAmt>
+        <TotalExpensePct>0.02680</TotalExpensePct>
+      </FinancialAssistanceAtCostTyp>
+      <UnreimbursedMedicaidGrp>
+        <TotalCommunityBenefitExpnsAmt>44081809</TotalCommunityBenefitExpnsAmt>
+        <DirectOffsettingRevenueAmt>34849612</DirectOffsettingRevenueAmt>
+        <NetCommunityBenefitExpnsAmt>9232197</NetCommunityBenefitExpnsAmt>
+        <TotalExpensePct>0.04210</TotalExpensePct>
+      </UnreimbursedMedicaidGrp>
+      <UnreimbursedCostsGrp>
+        <TotalCommunityBenefitExpnsAmt>673506</TotalCommunityBenefitExpnsAmt>
+        <NetCommunityBenefitExpnsAmt>673506</NetCommunityBenefitExpnsAmt>
+        <TotalExpensePct>0.00310</TotalExpensePct>
+      </UnreimbursedCostsGrp>
+      <TotalFinancialAssistanceTyp>
+        <TotalCommunityBenefitExpnsAmt>50628074</TotalCommunityBenefitExpnsAmt>
+        <DirectOffsettingRevenueAmt>34849612</DirectOffsettingRevenueAmt>
+        <NetCommunityBenefitExpnsAmt>15778462</NetCommunityBenefitExpnsAmt>
+        <TotalExpensePct>0.07200</TotalExpensePct>
+      </TotalFinancialAssistanceTyp>
+      <CommunityHealthServicesGrp>
+        <TotalCommunityBenefitExpnsAmt>781703</TotalCommunityBenefitExpnsAmt>
+        <DirectOffsettingRevenueAmt>274967</DirectOffsettingRevenueAmt>
+        <NetCommunityBenefitExpnsAmt>506737</NetCommunityBenefitExpnsAmt>
+        <TotalExpensePct>0.00230</TotalExpensePct>
+      </CommunityHealthServicesGrp>
+      <ResearchGrp>
+        <TotalCommunityBenefitExpnsAmt>398694</TotalCommunityBenefitExpnsAmt>
+        <DirectOffsettingRevenueAmt>70715</DirectOffsettingRevenueAmt>
+        <NetCommunityBenefitExpnsAmt>327979</NetCommunityBenefitExpnsAmt>
+        <TotalExpensePct>0.00150</TotalExpensePct>
+      </ResearchGrp>
+      <CashAndInKindContributionsGrp>
+        <TotalCommunityBenefitExpnsAmt>347821</TotalCommunityBenefitExpnsAmt>
+        <NetCommunityBenefitExpnsAmt>347821</NetCommunityBenefitExpnsAmt>
+        <TotalExpensePct>0.00160</TotalExpensePct>
+      </CashAndInKindContributionsGrp>
+      <TotalOtherBenefitsGrp>
+        <TotalCommunityBenefitExpnsAmt>1528218</TotalCommunityBenefitExpnsAmt>
+        <DirectOffsettingRevenueAmt>345682</DirectOffsettingRevenueAmt>
+        <NetCommunityBenefitExpnsAmt>1182537</NetCommunityBenefitExpnsAmt>
+        <TotalExpensePct>0.00540</TotalExpensePct>
+      </TotalOtherBenefitsGrp>
+      <TotalCommunityBenefitsGrp>
+        <TotalCommunityBenefitExpnsAmt>52156292</TotalCommunityBenefitExpnsAmt>
+        <DirectOffsettingRevenueAmt>35195294</DirectOffsettingRevenueAmt>
+        <NetCommunityBenefitExpnsAmt>16960999</NetCommunityBenefitExpnsAmt>
+        <TotalExpensePct>0.07740</TotalExpensePct>
+      </TotalCommunityBenefitsGrp>
+      <CoalitionBuildingGrp>
+        <TotalCommunityBenefitExpnsAmt>37393</TotalCommunityBenefitExpnsAmt>
+        <NetCommunityBenefitExpnsAmt>37393</NetCommunityBenefitExpnsAmt>
+        <TotalExpensePct>0.00020</TotalExpensePct>
+      </CoalitionBuildingGrp>
+      <TotalCommuntityBuildingActyGrp>
+        <TotalCommunityBenefitExpnsAmt>37393</TotalCommunityBenefitExpnsAmt>
+        <NetCommunityBenefitExpnsAmt>37393</NetCommunityBenefitExpnsAmt>
+        <TotalExpensePct>0.00020</TotalExpensePct>
+      </TotalCommuntityBuildingActyGrp>
+      <BadDebtExpenseReportedInd>true</BadDebtExpenseReportedInd>
+      <BadDebtExpenseAmt>5284061</BadDebtExpenseAmt>
+      <BadDebtExpenseAttributableAmt>4649974</BadDebtExpenseAttributableAmt>
+      <ReimbursedByMedicareAmt>38524267</ReimbursedByMedicareAmt>
+      <CostOfCareReimbursedByMedcrAmt>45876255</CostOfCareReimbursedByMedcrAmt>
+      <MedicareSurplusOrShortfallAmt>-7351988</MedicareSurplusOrShortfallAmt>
+      <CostingMethodologyUsedGrp>
+        <CostToChargeRatioInd>X</CostToChargeRatioInd>
+      </CostingMethodologyUsedGrp>
+      <WrittenDebtCollectionPolicyInd>true</WrittenDebtCollectionPolicyInd>
+      <FinancialAssistancePrvsnInd>true</FinancialAssistancePrvsnInd>
+      <HospitalFacilitiesCnt>1</HospitalFacilitiesCnt>
+      <HospitalFacilitiesGrp>
+        <FacilityNum>1</FacilityNum>
+        <BusinessName>
+          <BusinessNameLine1Txt>VALLEY VIEW HOSPITAL ASSOCIATION</BusinessNameLine1Txt>
+        </BusinessName>
+        <USAddress>
+          <AddressLine1Txt>1906 BLAKE AVE</AddressLine1Txt>
+          <CityNm>GLENWOOD SPRINGS</CityNm>
+          <StateAbbreviationCd>CO</StateAbbreviationCd>
+          <ZIPCd>81601</ZIPCd>
+        </USAddress>
+        <WebsiteAddressTxt>WWW.VVH.ORG</WebsiteAddressTxt>
+        <StateLicenseNum>PDO.0500000005</StateLicenseNum>
+        <LicensedHospitalInd>X</LicensedHospitalInd>
+        <GeneralMedicalAndSurgicalInd>X</GeneralMedicalAndSurgicalInd>
+        <EmergencyRoom24HrsInd>X</EmergencyRoom24HrsInd>
+        <OtherDesc>SOLE COMMUNITY hospital</OtherDesc>
+      </HospitalFacilitiesGrp>
+      <HospitalFcltyPoliciesPrctcGrp>
+        <HospitalFacilityName>
+          <BusinessNameLine1Txt>VALLEY VIEW HOSPITAL ASSOCIATION</BusinessNameLine1Txt>
+        </HospitalFacilityName>
+        <FacilityNum>1</FacilityNum>
+        <FirstLicensedCYOrPYInd>false</FirstLicensedCYOrPYInd>
+        <TaxExemptHospitalCYOrPYInd>false</TaxExemptHospitalCYOrPYInd>
+        <CHNAConductedInd>true</CHNAConductedInd>
+        <CommunityDefinitionInd>X</CommunityDefinitionInd>
+        <CommunityDemographicsInd>X</CommunityDemographicsInd>
+        <ExistingResourcesInd>X</ExistingResourcesInd>
+        <HowDataObtainedInd>X</HowDataObtainedInd>
+        <CommunityHealthNeedsInd>X</CommunityHealthNeedsInd>
+        <OtherHealthIssuesInd>X</OtherHealthIssuesInd>
+        <CommunityHlthNeedsIdProcessInd>X</CommunityHlthNeedsIdProcessInd>
+        <ConsultingProcessInd>X</ConsultingProcessInd>
+        <CHNAConductedYr>18</CHNAConductedYr>
+        <TakeIntoAccountOthersInputInd>true</TakeIntoAccountOthersInputInd>
+        <CHNAConductedWithOtherFcltsInd>false</CHNAConductedWithOtherFcltsInd>
+        <CHNAConductedWithNonFcltsInd>false</CHNAConductedWithNonFcltsInd>
+        <CHNAReportWidelyAvailableInd>true</CHNAReportWidelyAvailableInd>
+        <RptAvailableOnOwnWebsiteInd>X</RptAvailableOnOwnWebsiteInd>
+        <OwnWebsiteURLTxt>WWW.VVH.ORG/ABOUT/PUBLICATIONS/</OwnWebsiteURLTxt>
+        <PaperCopyPublicInspectionInd>X</PaperCopyPublicInspectionInd>
+        <ImplementationStrategyAdoptInd>true</ImplementationStrategyAdoptInd>
+        <ImplementationStrategyAdptYr>19</ImplementationStrategyAdptYr>
+        <StrategyPostedWebsiteInd>true</StrategyPostedWebsiteInd>
+        <StrategyWebsiteURLTxt>WWW.VVH.ORG/ABOUT/PUBLICATIONS/</StrategyWebsiteURLTxt>
+        <OrganizationIncurExciseTaxInd>false</OrganizationIncurExciseTaxInd>
+        <EligCriteriaExplainedInd>true</EligCriteriaExplainedInd>
+        <FPGFamilyIncmLmtFreeDscntInd>X</FPGFamilyIncmLmtFreeDscntInd>
+        <FPGFamilyIncmLmtFreeCarePct>199.</FPGFamilyIncmLmtFreeCarePct>
+        <FPGFamilyIncmLmtDscntCarePct>500.</FPGFamilyIncmLmtDscntCarePct>
+        <AssetLevelCriteriaInd>X</AssetLevelCriteriaInd>
+        <MedicalIndigencyCriteriaInd>X</MedicalIndigencyCriteriaInd>
+        <InsuranceStatusCriteriaInd>X</InsuranceStatusCriteriaInd>
+        <ExplainedBasisInd>true</ExplainedBasisInd>
+        <AppFinancialAsstExplnInd>true</AppFinancialAsstExplnInd>
+        <DescribedInfoInd>X</DescribedInfoInd>
+        <DescribedSuprtDocInd>X</DescribedSuprtDocInd>
+        <ProvidedHospitalContactInd>X</ProvidedHospitalContactInd>
+        <ProvidedNonprofitContactInd>X</ProvidedNonprofitContactInd>
+        <IncludesPublicityMeasuresInd>true</IncludesPublicityMeasuresInd>
+        <FAPAvailableOnWebsiteInd>X</FAPAvailableOnWebsiteInd>
+        <FAPAvailableOnWebsiteURLTxt>SEE PART V, SECTION C</FAPAvailableOnWebsiteURLTxt>
+        <FAPAppAvailableOnWebsiteInd>X</FAPAppAvailableOnWebsiteInd>
+        <FAPAppAvailableOnWebsiteURLTxt>SEE PART V, SECTION C</FAPAppAvailableOnWebsiteURLTxt>
+        <FAPSummaryOnWebsiteInd>X</FAPSummaryOnWebsiteInd>
+        <FAPSummaryOnWebsiteURLTxt>SEE PART V, SECTION C</FAPSummaryOnWebsiteURLTxt>
+        <FAPAvlblOnRequestNoChargeInd>X</FAPAvlblOnRequestNoChargeInd>
+        <FAPAppAvlblOnRequestNoChrgInd>X</FAPAppAvlblOnRequestNoChrgInd>
+        <FAPSumAvlblOnRequestNoChrgInd>X</FAPSumAvlblOnRequestNoChrgInd>
+        <NotifiedFAPCopyBillDisplayInd>X</NotifiedFAPCopyBillDisplayInd>
+        <CommuntityNotifiedFAPInd>X</CommuntityNotifiedFAPInd>
+        <FAPTranslatedInd>X</FAPTranslatedInd>
+        <FAPActionsOnNonpaymentInd>true</FAPActionsOnNonpaymentInd>
+        <PermitNoActionsInd>X</PermitNoActionsInd>
+        <CollectionActivitiesInd>false</CollectionActivitiesInd>
+        <ProvidedWrittenNoticeInd>X</ProvidedWrittenNoticeInd>
+        <MadeEffortOrallyNotifyInd>X</MadeEffortOrallyNotifyInd>
+        <ProcessedFAPApplicationInd>X</ProcessedFAPApplicationInd>
+        <MadePresumptiveEligDetermInd>X</MadePresumptiveEligDetermInd>
+        <NondisEmergencyCarePolicyInd>true</NondisEmergencyCarePolicyInd>
+        <LookBackMedicarePrivateInd>X</LookBackMedicarePrivateInd>
+        <AmountsGenerallyBilledInd>false</AmountsGenerallyBilledInd>
+        <GrossChargesInd>false</GrossChargesInd>
+      </HospitalFcltyPoliciesPrctcGrp>
+      <SupplementalInformationGrp>
+        <FormAndLineReferenceDesc>SCHEDULE H, PART V, SECTION B, LINE 5</FormAndLineReferenceDesc>
+        <ExplanationTxt>VALLEY VIEW HOSPITAL GATHERED INPUT FROM PERSONS WHO REPRESENTED THE BROAD INTERESTS OF THE COMMUNITY BY CONDUCTING A SURVEY. THE SURVEY WAS DESIGNED TO ASSEMBLE INFORMATION FROM LOCAL RESIDENTS REGARDING: - DEMOGRAPHICS OF RESPONDENTS - UTILIZATION AND PERCEPTION OF LOCAL HEALTH SERVICES - PERCEPTION OF COMMUNITY HEALTH THE IDENTITY OF THE PERSONS CONSULTED CONSISTED OF MEMBERS OF THE CHAMBER OF COMMERCE, LOCAL PHYSICIANS, COMMUNITY LEADERS, AND BUSINESS OWNERS.</ExplanationTxt>
+      </SupplementalInformationGrp>
+      <SupplementalInformationGrp>
+        <FormAndLineReferenceDesc>SCHEDULE H, PART V, SECTION B, LINE 11</FormAndLineReferenceDesc>
+        <ExplanationTxt>VALLEY VIEW ADDRESSES THE FOLLOWING SIX IMPLEMENTATION PRIORITIES: BEHAVIORAL HEALTH, CARDIOVASCULAR DISEASE, CANCER, DIABETES, HEALTHCARE ACCESS AND MOTOR VEHICLE ACCIDENTS. THESE ALL REFLECT SERIOUS HEALTH CONCERNS IN THE COMMUNITY IDENTIFIED BY THE CHNA. THE FOLLOWING CHNA-IDENTIFIED HEALTH NEEDS ARE ADDRESSED IN CONJUNCTION WITH THE HEALTH PRIORITIES WITH WHICH THEY ARE ALIGNED: OBESITY, TOBACCO USE, LACK OF EXERCISE, ETC. FOR EXAMPLE, TOBACCO USE IS CONSIDERED TO BE A PART OF ADDRESSING CANCER. DOMESTIC VIOLENCE, LACK OF DENTAL CARE, UNDERAGE ALCOHOL USE, AND CHILD ABUSE/NEGLECT ARE HEALTH NEEDS IDENTIFIED THAT ARE NOT BEING ADDRESSED IN THE IMPLEMENTATION STRATEGY BECAUSE THEY ARE BEING ADDRESSED BY OTHER ORGANIZATIONS WITH EXPERTISE AND THE CAPACITY TO DO SO.</ExplanationTxt>
+      </SupplementalInformationGrp>
+      <SupplementalInformationGrp>
+        <FormAndLineReferenceDesc>SCHEDULE H, PART V, SECTION B, LINE 16A-16C</FormAndLineReferenceDesc>
+        <ExplanationTxt>Direct URL for FAP, PLS and Application: https://www.vvh.org/financial/financial-assistance/</ExplanationTxt>
+      </SupplementalInformationGrp>
+      <FacilityNum>7</FacilityNum>
+      <OthHlthCareFcltsNotHospitalGrp>
+        <OthHlthCareFcltsGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>Roaring Fork Family Practice</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>978 Euclid Avenue</AddressLine1Txt>
+            <CityNm>Carbondale</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81623</ZIPCd>
+          </USAddress>
+          <FacilityTxt>Family Practice</FacilityTxt>
+        </OthHlthCareFcltsGrp>
+        <OthHlthCareFcltsGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>Pediatric Partners</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>1905 Blake Avenue</AddressLine1Txt>
+            <CityNm>Glenwood Springs</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81601</ZIPCd>
+          </USAddress>
+          <FacilityTxt>Pediatrics</FacilityTxt>
+        </OthHlthCareFcltsGrp>
+        <OthHlthCareFcltsGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>Eagle Valley Family Practice</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>377 Sylvan Lake Road</AddressLine1Txt>
+            <CityNm>Eagle</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81631</ZIPCd>
+          </USAddress>
+          <FacilityTxt>Family Practice</FacilityTxt>
+        </OthHlthCareFcltsGrp>
+        <OthHlthCareFcltsGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>Willits Healthcare</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>350 Market Street</AddressLine1Txt>
+            <CityNm>Basalt</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81621</ZIPCd>
+          </USAddress>
+          <FacilityTxt>General Practice Healthcare</FacilityTxt>
+        </OthHlthCareFcltsGrp>
+        <OthHlthCareFcltsGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>Silt HealthCare</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>2001 Horseshoe Trail</AddressLine1Txt>
+            <CityNm>Silt</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81652</ZIPCd>
+          </USAddress>
+          <FacilityTxt>General Practice Healthcare</FacilityTxt>
+        </OthHlthCareFcltsGrp>
+        <OthHlthCareFcltsGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>Eagle Healthcare</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>377 Sylvan Lake Road</AddressLine1Txt>
+            <CityNm>Eagle</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81631</ZIPCd>
+          </USAddress>
+          <FacilityTxt>Orthopaedic, Heart &amp; Vascular, Neurology center, Spine Center Women's Health, Foot and ankle</FacilityTxt>
+        </OthHlthCareFcltsGrp>
+        <OthHlthCareFcltsGrp>
+          <BusinessName>
+            <BusinessNameLine1Txt>Heart and Vascular Center Grand Junction</BusinessNameLine1Txt>
+          </BusinessName>
+          <USAddress>
+            <AddressLine1Txt>607 25 Road</AddressLine1Txt>
+            <CityNm>Grand Junction</CityNm>
+            <StateAbbreviationCd>CO</StateAbbreviationCd>
+            <ZIPCd>81505</ZIPCd>
+          </USAddress>
+          <FacilityTxt>Heart &amp; Vascular Center</FacilityTxt>
+        </OthHlthCareFcltsGrp>
+      </OthHlthCareFcltsNotHospitalGrp>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>SCHEDULE H, PART I, LINE 3</FormAndLineReferenceDesc>
+        <ExplanationTxt>Description of other factors used in determining FAP eligibility: In addition to the FPG Valley View Hospital associaiuton also uses assets level, medical indigency and insurance status to determine elgibilioty.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>SCHEDULE H, PART I, LINE 7</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE ORGANIZATION USED A COST-TO-CHARGE RATIO FOR LINES 7A and 7B. THE COST-TO-CHARGE RATIO WAS DERIVED FROM WORKSHEET 2, RATIO OF PATIENT CARE COST-TO-CHARGES. THE INFORMATION FOR LINES 7E THROUGH 7I WAS DERIVED FROM INFORMATION IN THE GENERAL LEDGER AND OTHER FINANCIAL DATA RELATED SPECIFICALLY TO THE VARIOUS TYPES OF COMMUNITY BENEFITS.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>SCHEDULE H, PART I, LINE 7, Column(F)</FormAndLineReferenceDesc>
+        <ExplanationTxt>BAD DEBT EXPENSE INCLUDED ON FORM 990, PART IX, LINE 25 BUT EXCLUDED FOR PURPOSES OF CALCULATING PERCENTAGES IN THIS COLUMN EQUAL $5,284,061.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>SCHEDULE H, PART II, LINES 1 10</FormAndLineReferenceDesc>
+        <ExplanationTxt>VALLEY VIEW HOSPITAL IS A MEMBER OF THE VALLEY HEALTH ALLIANCE WHICH PROMOTES THE HEALTH AND WELL-BEING OF OUR COMMUNITIES BY COLLABORATING TO PROVIDE HEALTHCARE THAT IS ACCESSIBLE, AFFORDABLE AND HIGH QUALITY. THE MISSION IS TO MEET PEOPLE WHERE THEY ARE IN THEIR JOURNEY TO IMPROVE PERSONAL HEALTH AND WELL-BEING THROUGH TRUSTED PARTNERSHIPS WITH THEIR EMPLOYERS AND PROVIDERS.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>SCHEDULE H, PART III, SECTION A, LINE 2</FormAndLineReferenceDesc>
+        <ExplanationTxt>IN EVALUATING THE COLLECTABILITY OF ACCOUNTS RECEIVABLE, THE HOSPITAL ANALYZES ITS PAST HISTORY AND IDENTIFIES TRENDS FOR EACH OF ITS MAJOR PAYER SOURCES OF REVENUE TO ESTIMATE THE APPROPRIATE ALLOWANCE FOR DOUBTFUL ACCOUNTS AND PROVISION FOR BAD DEBTS. MANAGEMENT REGULARLY REVIEWS DATA ABOUT THESE MAJOR PAYER SOURCES OF REVENUE IN EVALUATING THE SUFFICIENCY OF THE ALLOWANCE FOR DOUBTFUL ACCOUNTS.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>SCHEDULE H, PART III, SECTION A, LINE 3</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE HOSPITAL USED A COST TO CHARGES METHODOLOGY IN DERIVING BAD DEBT EXPENSE (AT COST) ATTRIBUTABLE TO PATIENTS ELIGIBLE UNDER THE HOSPITAL'S CHARITY CARE POLICY. ANALYSIS WAS DONE ON RANDOMLY SELECTED ACCOUNTS WRITTEN OFF TO BAD DEBT. IN APPROXIMATELY 88% OF ACCOUNTS TESTED, PATIENTS WOULD HAVE QUALIFIED FOR CHARITY CARE BUT REFUSED TO PROVIDE INFORMATION AND DOCUMENTATION FOR CHARITY ASSESSMENT, AND WERE THEREFORE INCLUDED IN BAD DEBT.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>SCHEDULE H, PART III, SECTION A, LINE 4</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE FOOTNOTE TO THE ORGANIZATION'S FINANCIAL STATEMENTS THAT DESCRIBES BAD DEBT EXPENSE IS IN AUDIT NOTE 4 ON PAGES 16-20 OF THE ATTACHED FINANCIAL STATEMENTS.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>SCHEDULE H, PART III, SECTION B, LINE 8</FormAndLineReferenceDesc>
+        <ExplanationTxt>AS A RURAL HOSPITAL THE ORGANIZATION IS CRITICAL IN PROVIDING HEALTHCARE SERVICES TO ALL COMMUNITY MEMBERS INCLUDING THE ELDERLY POPULATION WHICH MEDICAL STAFF IN THE SURROUNDING AREA RESIST. ACCESSIBLE, HIGH-QUALITY HEALTHCARE SERVICE IS NEEDED FOR THE OVERALL HEALTH OF OUR RESIDENTS EVEN IF OUR MEDICARE REIMBURSEMENT DOES NOT MEET THE COST OF PROVIDING THAT CARE. THE MEDICARE SHORTFALL REFLECTS THE EXCESS OF COSTS CONSISTENTLY DRIVEN UP BY INTENSIFYING REGULATORY REQUIREMENTS, SKILLED LABOR SHORTAGES AND EVOLVING MEDICAL AND INFORMATION TECHNOLOGY, OVER NON NEGOTIABLE PAYMENTS BASED ON UPDATES THAT HAVE FALLEN BEHIND ACTUAL HEALTHCARE COST INFLATION. COSTS ARE BASED ON MEDICARE COST REPORT ALLOCATIONS. THE COST REPORT WAS USED TO DETERMINE THE ALLOWABLE COSTS REPORTED ON LINE 6.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>SCHEDULE H, PART III, SECTION C, LINE 9B</FormAndLineReferenceDesc>
+        <ExplanationTxt>FAP ALLOWS FOR A DISCOUNT OF 50% TO 100% BASED ON A SLIDING SCALE. REMAINING BALANCES AFTER THE DISCOUNT ARE TREATED AS ALL OTHER SELF PAY ACCOUNTS. THE SYSTEM GENERATES THREE STATEMENTS AND CUSTOMER SERVICE REPRESENTATIVES WILL ATTEMPT AT LEAST TWO PHONE CALLS. THE THIRD STATEMENT IS A FINAL NOTICE FOR SELF PAY AND IS GENERATED BY THE CUSTOMER SERVICE SUPERVISOR AT ABOUT 90 DAYS. WITHOUT OTHER ARRANGEMENTS, THE DEBT IS TRANSFERRED TO THE COLLECTION AGENCY AFTER 120 DAYS.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>SCHEDULE H, PART VI, LINE 2</FormAndLineReferenceDesc>
+        <ExplanationTxt>NEEDS ASSESSMENT: THE HOSPITAL ASSESSES THE HEALTH CARE NEEDS OF THE COMMUNITIES IT SERVES THROUGH SURVEYS TAKEN BY COMMUNITY HEALTH DEPARTMENTS AND INPUT FROM COMMUNITY FOCUS GROUPS.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>SCHEDULE H, PART VI, LINE 3</FormAndLineReferenceDesc>
+        <ExplanationTxt>PATIENT EDUCATION OF ELIGIBILITY FOR ASSISTANCE: THE HOSPITAL EMPLOYS CONSULTING GROUPS ON A FULL-TIME BASIS TO ASSIST PATIENTS IN COMPLETING FORMS THAT DETERMINE THEIR ELIGIBILITY FOR ATTAINING FINANCIAL ASSISTANCE.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>SCHEDULE H, PART VI, LINE 4</FormAndLineReferenceDesc>
+        <ExplanationTxt>COMMUNITY INFORMATION: THE HOSPITAL DEFINES ITS PRIMARY SERVICE AREA AS EASTERN GARFIELD COUNTY, INCLUDING THE COMMUNITIES OF GLENWOOD SPRINGS, CARBONDALE, AND NEW CASTLE. ITS SECONDARY SERVICE AREA INCLUDES THE COMMUNITIES OF SILT, RIFLE, AND EL JEBEL IN GARFIELD COUNTY, AND GYPSUM, BASALT AND EAGLE IN EAGLE COUNTY. SEVERAL OF THE HOSPITAL'S PHYSICIAN PRACTICES EXTEND THEIR PATIENT OUTREACH EFFORTS BY PARTNERING WITH OTHER CLINICS AND HOSPITALS THROUGHOUT THE COLORADO WESTERN SLOPE. According to government census information, for 2013-2017 Glenwood Springs had 11.7% persons below the poverty level which is above the overall percentage of 10.7% for the state of Colorado.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Schedule H, Part V, Line 5</FormAndLineReferenceDesc>
+        <ExplanationTxt>PROMOTION OF COMMUNITY HEALTH: AS A MEMBER OF A LARGER ALLIANCE, THE HOSPITAL PARTICIPATES IN COLLABORATIVE EFFORTS WITH THE COMMUNITY TO ADDRESS HEALTH AND SAFETY ISSUES.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Schedule H, Part I, Line 3C</FormAndLineReferenceDesc>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>Schedule H, Part V, Line 6</FormAndLineReferenceDesc>
+        <ExplanationTxt>Description of affiliation: Valley View Hospital is affiliated with Valley View Foundation. Valley View Hospital Foundation (the Foundation) is a not-for-profit organization operated exclusively for charitable, educational and scientific purposes in support of the mission and purposes of the Hospital. The Foundation is an affiliate controlled by the Hospital.</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleH>
+    <IRS990ScheduleI documentId="IRS990ScheduleI">
+      <GrantRecordsMaintainedInd>true</GrantRecordsMaintainedInd>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>RIVER BRIDGE REGIONAL CENTER</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>520 21ST STREET</AddressLine1Txt>
+          <CityNm>GLENWOOD SPRINGS</CityNm>
+          <StateAbbreviationCd>CO</StateAbbreviationCd>
+          <ZIPCd>81601</ZIPCd>
+        </USAddress>
+        <RecipientEIN>455464778</RecipientEIN>
+        <IRCSectionDesc>501(C)(3)</IRCSectionDesc>
+        <CashGrantAmt>51000</CashGrantAmt>
+        <PurposeOfGrantTxt>DONATION</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>THREE RIVERS LITTLE LEAGUE</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>PO BOX 217</AddressLine1Txt>
+          <CityNm>GLENWOOD SPRINGS</CityNm>
+          <StateAbbreviationCd>CO</StateAbbreviationCd>
+          <ZIPCd>81601</ZIPCd>
+        </USAddress>
+        <RecipientEIN>841492611</RecipientEIN>
+        <IRCSectionDesc>501(C)(3)</IRCSectionDesc>
+        <CashGrantAmt>10000</CashGrantAmt>
+        <PurposeOfGrantTxt>SPONSORSHIP</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>ASPEN COMMUNITY FOUNDATION</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>600 E HOPKINS AVE STE 202</AddressLine1Txt>
+          <CityNm>ASPEN</CityNm>
+          <StateAbbreviationCd>CO</StateAbbreviationCd>
+          <ZIPCd>81611</ZIPCd>
+        </USAddress>
+        <RecipientEIN>840829226</RecipientEIN>
+        <IRCSectionDesc>501(C)(3)</IRCSectionDesc>
+        <CashGrantAmt>7500</CashGrantAmt>
+        <PurposeOfGrantTxt>SPONSORSHIP</PurposeOfGrantTxt>
+      </RecipientTable>
+      <RecipientTable>
+        <RecipientBusinessName>
+          <BusinessNameLine1Txt>Valley View Hospital Foundation</BusinessNameLine1Txt>
+        </RecipientBusinessName>
+        <USAddress>
+          <AddressLine1Txt>1906 Blake Avenue</AddressLine1Txt>
+          <CityNm>Glenwood Springs</CityNm>
+          <StateAbbreviationCd>CO</StateAbbreviationCd>
+          <ZIPCd>81601</ZIPCd>
+        </USAddress>
+        <RecipientEIN>731664673</RecipientEIN>
+        <IRCSectionDesc>501(c)(3)</IRCSectionDesc>
+        <CashGrantAmt>99998</CashGrantAmt>
+        <PurposeOfGrantTxt>Support Organization</PurposeOfGrantTxt>
+      </RecipientTable>
+      <Total501c3OrgCnt>4</Total501c3OrgCnt>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>SCHEDULE I, PART I, LINE 2</FormAndLineReferenceDesc>
+        <ExplanationTxt>VALLEY VIEW HOSPITAL DOES NOT OFFER GRANTS TO THE ORGANIZATIONS, IT OFFERS DONATIONS AND SPONSORSHIPS. THE COMMUNITY RELATIONS AND ADMINISTRATION DEPARTMENTS MONITOR AND SELECT WHICH ORGANIZATIONS VALLEY VIEW HOSPITAL WILL SUPPORT WITH DONATIONS.</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleI>
+    <IRS990ScheduleJ documentId="IRS990ScheduleJ">
+      <IdemnificationGrossUpPmtsInd>X</IdemnificationGrossUpPmtsInd>
+      <WrittenPolicyRefTAndEExpnssInd>false</WrittenPolicyRefTAndEExpnssInd>
+      <SubstantiationRequiredInd>true</SubstantiationRequiredInd>
+      <CompensationCommitteeInd>X</CompensationCommitteeInd>
+      <CompensationSurveyInd>X</CompensationSurveyInd>
+      <BoardOrCommitteeApprovalInd>X</BoardOrCommitteeApprovalInd>
+      <SeverancePaymentInd>false</SeverancePaymentInd>
+      <SupplementalNonqualRtrPlanInd>true</SupplementalNonqualRtrPlanInd>
+      <EquityBasedCompArrngmInd>false</EquityBasedCompArrngmInd>
+      <CompBasedOnRevenueOfFlngOrgInd>false</CompBasedOnRevenueOfFlngOrgInd>
+      <CompBsdOnRevRelatedOrgsInd>false</CompBsdOnRevRelatedOrgsInd>
+      <CompBsdNetEarnsFlngOrgInd>false</CompBsdNetEarnsFlngOrgInd>
+      <CompBsdNetEarnsRltdOrgsInd>false</CompBsdNetEarnsRltdOrgsInd>
+      <AnyNonFixedPaymentsInd>true</AnyNonFixedPaymentsInd>
+      <InitialContractExceptionInd>false</InitialContractExceptionInd>
+      <RltdOrgOfficerTrstKeyEmplGrp>
+        <PersonNm>GARY BREWER</PersonNm>
+        <TitleTxt>CHIEF EXECUTIVE OFFICER</TitleTxt>
+        <BaseCompensationFilingOrgAmt>544220</BaseCompensationFilingOrgAmt>
+        <CompensationBasedOnRltdOrgsAmt>0</CompensationBasedOnRltdOrgsAmt>
+        <BonusFilingOrganizationAmount>318713</BonusFilingOrganizationAmount>
+        <BonusRelatedOrganizationsAmt>0</BonusRelatedOrganizationsAmt>
+        <OtherCompensationFilingOrgAmt>97004</OtherCompensationFilingOrgAmt>
+        <OtherCompensationRltdOrgsAmt>0</OtherCompensationRltdOrgsAmt>
+        <DeferredCompensationFlngOrgAmt>170818</DeferredCompensationFlngOrgAmt>
+        <DeferredCompRltdOrgsAmt>0</DeferredCompRltdOrgsAmt>
+        <NontaxableBenefitsFilingOrgAmt>29081</NontaxableBenefitsFilingOrgAmt>
+        <NontaxableBenefitsRltdOrgsAmt>0</NontaxableBenefitsRltdOrgsAmt>
+        <TotalCompensationFilingOrgAmt>1159836</TotalCompensationFilingOrgAmt>
+        <TotalCompensationRltdOrgsAmt>0</TotalCompensationRltdOrgsAmt>
+      </RltdOrgOfficerTrstKeyEmplGrp>
+      <RltdOrgOfficerTrstKeyEmplGrp>
+        <PersonNm>CHARLES CREVLING</PersonNm>
+        <TitleTxt>CHIEF FINANCIAL OFFICER</TitleTxt>
+        <BaseCompensationFilingOrgAmt>280975</BaseCompensationFilingOrgAmt>
+        <CompensationBasedOnRltdOrgsAmt>0</CompensationBasedOnRltdOrgsAmt>
+        <BonusFilingOrganizationAmount>48000</BonusFilingOrganizationAmount>
+        <BonusRelatedOrganizationsAmt>0</BonusRelatedOrganizationsAmt>
+        <OtherCompensationFilingOrgAmt>46291</OtherCompensationFilingOrgAmt>
+        <OtherCompensationRltdOrgsAmt>0</OtherCompensationRltdOrgsAmt>
+        <DeferredCompensationFlngOrgAmt>7026</DeferredCompensationFlngOrgAmt>
+        <DeferredCompRltdOrgsAmt>0</DeferredCompRltdOrgsAmt>
+        <NontaxableBenefitsFilingOrgAmt>27749</NontaxableBenefitsFilingOrgAmt>
+        <NontaxableBenefitsRltdOrgsAmt>0</NontaxableBenefitsRltdOrgsAmt>
+        <TotalCompensationFilingOrgAmt>410041</TotalCompensationFilingOrgAmt>
+        <TotalCompensationRltdOrgsAmt>0</TotalCompensationRltdOrgsAmt>
+      </RltdOrgOfficerTrstKeyEmplGrp>
+      <RltdOrgOfficerTrstKeyEmplGrp>
+        <PersonNm>DR BRIAN MURPHY</PersonNm>
+        <TitleTxt>TRUSTEE, BOARD MEMBER</TitleTxt>
+        <BaseCompensationFilingOrgAmt>517957</BaseCompensationFilingOrgAmt>
+        <CompensationBasedOnRltdOrgsAmt>0</CompensationBasedOnRltdOrgsAmt>
+        <BonusFilingOrganizationAmount>25000</BonusFilingOrganizationAmount>
+        <BonusRelatedOrganizationsAmt>0</BonusRelatedOrganizationsAmt>
+        <OtherCompensationFilingOrgAmt>4050</OtherCompensationFilingOrgAmt>
+        <OtherCompensationRltdOrgsAmt>0</OtherCompensationRltdOrgsAmt>
+        <DeferredCompensationFlngOrgAmt>10818</DeferredCompensationFlngOrgAmt>
+        <DeferredCompRltdOrgsAmt>0</DeferredCompRltdOrgsAmt>
+        <NontaxableBenefitsFilingOrgAmt>40806</NontaxableBenefitsFilingOrgAmt>
+        <NontaxableBenefitsRltdOrgsAmt>0</NontaxableBenefitsRltdOrgsAmt>
+        <TotalCompensationFilingOrgAmt>598631</TotalCompensationFilingOrgAmt>
+        <TotalCompensationRltdOrgsAmt>0</TotalCompensationRltdOrgsAmt>
+      </RltdOrgOfficerTrstKeyEmplGrp>
+      <RltdOrgOfficerTrstKeyEmplGrp>
+        <PersonNm>FRANK LAWS MD</PersonNm>
+        <TitleTxt>INTERVENTIONAL CARDIOLOGIST</TitleTxt>
+        <BaseCompensationFilingOrgAmt>827958</BaseCompensationFilingOrgAmt>
+        <CompensationBasedOnRltdOrgsAmt>0</CompensationBasedOnRltdOrgsAmt>
+        <BonusFilingOrganizationAmount>84446</BonusFilingOrganizationAmount>
+        <BonusRelatedOrganizationsAmt>0</BonusRelatedOrganizationsAmt>
+        <OtherCompensationFilingOrgAmt>22940</OtherCompensationFilingOrgAmt>
+        <OtherCompensationRltdOrgsAmt>0</OtherCompensationRltdOrgsAmt>
+        <DeferredCompensationFlngOrgAmt>10818</DeferredCompensationFlngOrgAmt>
+        <DeferredCompRltdOrgsAmt>0</DeferredCompRltdOrgsAmt>
+        <NontaxableBenefitsFilingOrgAmt>16441</NontaxableBenefitsFilingOrgAmt>
+        <NontaxableBenefitsRltdOrgsAmt>0</NontaxableBenefitsRltdOrgsAmt>
+        <TotalCompensationFilingOrgAmt>962603</TotalCompensationFilingOrgAmt>
+        <TotalCompensationRltdOrgsAmt>0</TotalCompensationRltdOrgsAmt>
+      </RltdOrgOfficerTrstKeyEmplGrp>
+      <RltdOrgOfficerTrstKeyEmplGrp>
+        <PersonNm>ROBERT ADAMS MD</PersonNm>
+        <TitleTxt>ORTHOPAEDIC SURGEON</TitleTxt>
+        <BaseCompensationFilingOrgAmt>749053</BaseCompensationFilingOrgAmt>
+        <CompensationBasedOnRltdOrgsAmt>0</CompensationBasedOnRltdOrgsAmt>
+        <BonusFilingOrganizationAmount>543815</BonusFilingOrganizationAmount>
+        <BonusRelatedOrganizationsAmt>0</BonusRelatedOrganizationsAmt>
+        <OtherCompensationFilingOrgAmt>5707</OtherCompensationFilingOrgAmt>
+        <OtherCompensationRltdOrgsAmt>0</OtherCompensationRltdOrgsAmt>
+        <DeferredCompensationFlngOrgAmt>10818</DeferredCompensationFlngOrgAmt>
+        <DeferredCompRltdOrgsAmt>0</DeferredCompRltdOrgsAmt>
+        <NontaxableBenefitsFilingOrgAmt>41991</NontaxableBenefitsFilingOrgAmt>
+        <NontaxableBenefitsRltdOrgsAmt>0</NontaxableBenefitsRltdOrgsAmt>
+        <TotalCompensationFilingOrgAmt>1351384</TotalCompensationFilingOrgAmt>
+        <TotalCompensationRltdOrgsAmt>0</TotalCompensationRltdOrgsAmt>
+      </RltdOrgOfficerTrstKeyEmplGrp>
+      <RltdOrgOfficerTrstKeyEmplGrp>
+        <PersonNm>FERDINAND LIOTTA MD</PersonNm>
+        <TitleTxt>ORTHOPAEDIC SURGEON</TitleTxt>
+        <BaseCompensationFilingOrgAmt>727150</BaseCompensationFilingOrgAmt>
+        <CompensationBasedOnRltdOrgsAmt>0</CompensationBasedOnRltdOrgsAmt>
+        <BonusFilingOrganizationAmount>253043</BonusFilingOrganizationAmount>
+        <BonusRelatedOrganizationsAmt>0</BonusRelatedOrganizationsAmt>
+        <OtherCompensationFilingOrgAmt>34687</OtherCompensationFilingOrgAmt>
+        <OtherCompensationRltdOrgsAmt>0</OtherCompensationRltdOrgsAmt>
+        <DeferredCompensationFlngOrgAmt>10818</DeferredCompensationFlngOrgAmt>
+        <DeferredCompRltdOrgsAmt>0</DeferredCompRltdOrgsAmt>
+        <NontaxableBenefitsFilingOrgAmt>55081</NontaxableBenefitsFilingOrgAmt>
+        <NontaxableBenefitsRltdOrgsAmt>0</NontaxableBenefitsRltdOrgsAmt>
+        <TotalCompensationFilingOrgAmt>1080779</TotalCompensationFilingOrgAmt>
+        <TotalCompensationRltdOrgsAmt>0</TotalCompensationRltdOrgsAmt>
+      </RltdOrgOfficerTrstKeyEmplGrp>
+      <RltdOrgOfficerTrstKeyEmplGrp>
+        <PersonNm>WADE CEOLA MD</PersonNm>
+        <TitleTxt>NEUROSURGEON</TitleTxt>
+        <BaseCompensationFilingOrgAmt>901169</BaseCompensationFilingOrgAmt>
+        <CompensationBasedOnRltdOrgsAmt>0</CompensationBasedOnRltdOrgsAmt>
+        <BonusFilingOrganizationAmount>80000</BonusFilingOrganizationAmount>
+        <BonusRelatedOrganizationsAmt>0</BonusRelatedOrganizationsAmt>
+        <OtherCompensationFilingOrgAmt>4353</OtherCompensationFilingOrgAmt>
+        <OtherCompensationRltdOrgsAmt>0</OtherCompensationRltdOrgsAmt>
+        <DeferredCompensationFlngOrgAmt>10818</DeferredCompensationFlngOrgAmt>
+        <DeferredCompRltdOrgsAmt>0</DeferredCompRltdOrgsAmt>
+        <NontaxableBenefitsFilingOrgAmt>42578</NontaxableBenefitsFilingOrgAmt>
+        <NontaxableBenefitsRltdOrgsAmt>0</NontaxableBenefitsRltdOrgsAmt>
+        <TotalCompensationFilingOrgAmt>1038918</TotalCompensationFilingOrgAmt>
+        <TotalCompensationRltdOrgsAmt>0</TotalCompensationRltdOrgsAmt>
+      </RltdOrgOfficerTrstKeyEmplGrp>
+      <RltdOrgOfficerTrstKeyEmplGrp>
+        <PersonNm>MARCUS HOWELL MD</PersonNm>
+        <TitleTxt>INTERVENTIONAL CARDIOLOGIST</TitleTxt>
+        <BaseCompensationFilingOrgAmt>748932</BaseCompensationFilingOrgAmt>
+        <CompensationBasedOnRltdOrgsAmt>0</CompensationBasedOnRltdOrgsAmt>
+        <BonusFilingOrganizationAmount>75000</BonusFilingOrganizationAmount>
+        <BonusRelatedOrganizationsAmt>0</BonusRelatedOrganizationsAmt>
+        <OtherCompensationFilingOrgAmt>11550</OtherCompensationFilingOrgAmt>
+        <OtherCompensationRltdOrgsAmt>0</OtherCompensationRltdOrgsAmt>
+        <DeferredCompensationFlngOrgAmt>10818</DeferredCompensationFlngOrgAmt>
+        <DeferredCompRltdOrgsAmt>0</DeferredCompRltdOrgsAmt>
+        <NontaxableBenefitsFilingOrgAmt>55081</NontaxableBenefitsFilingOrgAmt>
+        <NontaxableBenefitsRltdOrgsAmt>0</NontaxableBenefitsRltdOrgsAmt>
+        <TotalCompensationFilingOrgAmt>901381</TotalCompensationFilingOrgAmt>
+        <TotalCompensationRltdOrgsAmt>0</TotalCompensationRltdOrgsAmt>
+      </RltdOrgOfficerTrstKeyEmplGrp>
+      <RltdOrgOfficerTrstKeyEmplGrp>
+        <PersonNm>Bonnie Wasli</PersonNm>
+        <TitleTxt>Former CFO</TitleTxt>
+        <BaseCompensationFilingOrgAmt>90184</BaseCompensationFilingOrgAmt>
+        <BonusFilingOrganizationAmount>33134</BonusFilingOrganizationAmount>
+        <OtherCompensationFilingOrgAmt>34880</OtherCompensationFilingOrgAmt>
+        <DeferredCompensationFlngOrgAmt>7373</DeferredCompensationFlngOrgAmt>
+        <NontaxableBenefitsFilingOrgAmt>39009</NontaxableBenefitsFilingOrgAmt>
+        <TotalCompensationFilingOrgAmt>204580</TotalCompensationFilingOrgAmt>
+      </RltdOrgOfficerTrstKeyEmplGrp>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>SCHEDULE J, PART I, LINE 1A</FormAndLineReferenceDesc>
+        <ExplanationTxt>CHRISTMAS GIFTS OF $100 WERE GIVEN TO UPPER MANAGEMENT AND GROSSED UP FOR TAXES.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>SCHEDULE J, PART I, LINE 1B</FormAndLineReferenceDesc>
+        <ExplanationTxt>THE CHRISTMAS GIFTS ARE DISCRETIONARY AND IMMATERIAL; THEREFORE, NO WRITTEN POLICY HAS BEEN IMPLEMENTED.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>SCHEDULE J, PART I, LINE 4B</FormAndLineReferenceDesc>
+        <ExplanationTxt>GARY BREWER, Charles crevling, Frank LAws, and Ferdinand Liotta PARTICIPATE IN A SUPPLEMENTAL NON-QUALIFIED RETIREMENT PLAN. THERE WERE NO EMPLOYER CONTRIBUTIONS TO THE SUPPLEMENTAL NON-QUALIFIED RETIREMENT PLANS DURING CALENDAR YEAR 2018. GARY BREWER PARTICIPATES IN A SERP PLAN AND EMPLOYER CONTRIBUTIONS DURING CALENDAR YEAR 2018 WERE $160,000. The following individuals received a payment during the 2017 calendar year which is included in other reportable compensation on Schedule J, Part II, Column B: Gary Brewer - $18,500 Charles Creving - $18,500 Frank Laws M.D. - $18,500 Ferdinand Liotta M.D. - $18,500</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>SCHEDULE J, PART I, LINE 7</FormAndLineReferenceDesc>
+        <ExplanationTxt>GARY BREWER, CHARLES CREVLING, FRANK LAWS, ROBERT ADAMS, FERDINAND LIOTTA, WADE CEOLA, MARCUS HOWELL, AND BRIAN MURPHY RECEIVED A BONUS DURING CALENDAR YEAR 2018. THE BONUS WAS DETERMINED BY THE BOARD COMPENSATION COMMITTEE. THE BONUS IS BASED ON MULTIPLE FACTORS INCLUDING, BUT NOT LIMITED TO: SALARY, PRODUCTIVITY, COLLECTIONS, PATIENT SATISFACTION, AND QUALITY AND FINANCIAL GOALS.</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleJ>
+    <IRS990ScheduleK documentId="IRS990ScheduleK">
+      <TaxExemptBondsIssuesGrp>
+        <BondReferenceCd>A</BondReferenceCd>
+        <IssuerName>
+          <BusinessNameLine1Txt>COLORADO HEALTH FACILITIES AURHORITY</BusinessNameLine1Txt>
+        </IssuerName>
+        <BondIssuerEIN>840752932</BondIssuerEIN>
+        <CUSIPNum>19648A5G6</CUSIPNum>
+        <BondIssuedDt>2015-12-08</BondIssuedDt>
+        <IssuePriceAmt>48891253</IssuePriceAmt>
+        <PurposeDesc>SEE SCHEDULE K, PART VI</PurposeDesc>
+        <DefeasedInd>false</DefeasedInd>
+        <OnBehalfOfIssuerInd>false</OnBehalfOfIssuerInd>
+        <PoolFinancingInd>false</PoolFinancingInd>
+      </TaxExemptBondsIssuesGrp>
+      <TaxExemptBondsIssuesGrp>
+        <BondReferenceCd>B</BondReferenceCd>
+        <IssuerName>
+          <BusinessNameLine1Txt>COLORADO HEALTH FACILITIES AUTHORITY</BusinessNameLine1Txt>
+        </IssuerName>
+        <BondIssuerEIN>840752932</BondIssuerEIN>
+        <CUSIPNum>19648FFS8</CUSIPNum>
+        <BondIssuedDt>2017-12-19</BondIssuedDt>
+        <IssuePriceAmt>47469359</IssuePriceAmt>
+        <PurposeDesc>SEE SCHEDULE K, PART VI</PurposeDesc>
+        <DefeasedInd>false</DefeasedInd>
+        <OnBehalfOfIssuerInd>false</OnBehalfOfIssuerInd>
+        <PoolFinancingInd>false</PoolFinancingInd>
+      </TaxExemptBondsIssuesGrp>
+      <TaxExemptBondsIssuesGrp>
+        <BondReferenceCd>C</BondReferenceCd>
+        <IssuerName>
+          <BusinessNameLine1Txt>Colorado Health Facilities Authority</BusinessNameLine1Txt>
+        </IssuerName>
+        <BondIssuerEIN>840752932</BondIssuerEIN>
+        <CUSIPNum>19648FGM0</CUSIPNum>
+        <BondIssuedDt>2018-05-15</BondIssuedDt>
+        <IssuePriceAmt>57160000</IssuePriceAmt>
+        <PurposeDesc>SEE SCHEDULE K, PART VI</PurposeDesc>
+        <DefeasedInd>false</DefeasedInd>
+        <OnBehalfOfIssuerInd>false</OnBehalfOfIssuerInd>
+        <PoolFinancingInd>false</PoolFinancingInd>
+      </TaxExemptBondsIssuesGrp>
+      <TaxExemptBondsProceedsGrp>
+        <BondReferenceCd>A</BondReferenceCd>
+        <RetiredAmt>0</RetiredAmt>
+        <BondDefeasedAmt>0</BondDefeasedAmt>
+        <TotalProceedsAmt>48891253</TotalProceedsAmt>
+        <InReserveFundAmt>0</InReserveFundAmt>
+        <CapitalizedInterestAmt>0</CapitalizedInterestAmt>
+        <RefundingEscrowAmt>0</RefundingEscrowAmt>
+        <IssuanceCostsFromProceedsAmt>434759</IssuanceCostsFromProceedsAmt>
+        <CreditEnhancementAmt>0</CreditEnhancementAmt>
+        <WorkingCapitalExpendituresAmt>0</WorkingCapitalExpendituresAmt>
+        <CapitalExpendituresAmt>37969161</CapitalExpendituresAmt>
+        <OtherSpentProceedsAmt>0</OtherSpentProceedsAmt>
+        <UnspentAmt>10487333</UnspentAmt>
+        <RefundingTaxExemptBondsInd>false</RefundingTaxExemptBondsInd>
+        <RefundingTaxableBondsInd>false</RefundingTaxableBondsInd>
+        <FinalAllocationMadeInd>true</FinalAllocationMadeInd>
+        <AdequateBooksAndRecMaintInd>true</AdequateBooksAndRecMaintInd>
+      </TaxExemptBondsProceedsGrp>
+      <TaxExemptBondsProceedsGrp>
+        <BondReferenceCd>B</BondReferenceCd>
+        <RetiredAmt>665000</RetiredAmt>
+        <BondDefeasedAmt>0</BondDefeasedAmt>
+        <TotalProceedsAmt>47469359</TotalProceedsAmt>
+        <InReserveFundAmt>4894286</InReserveFundAmt>
+        <CapitalizedInterestAmt>0</CapitalizedInterestAmt>
+        <RefundingEscrowAmt>0</RefundingEscrowAmt>
+        <IssuanceCostsFromProceedsAmt>498920</IssuanceCostsFromProceedsAmt>
+        <CreditEnhancementAmt>0</CreditEnhancementAmt>
+        <WorkingCapitalExpendituresAmt>0</WorkingCapitalExpendituresAmt>
+        <CapitalExpendituresAmt>0</CapitalExpendituresAmt>
+        <OtherSpentProceedsAmt>51864724</OtherSpentProceedsAmt>
+        <UnspentAmt>0</UnspentAmt>
+        <SubstantialCompletionYr>2017</SubstantialCompletionYr>
+        <RefundingTaxExemptBondsInd>false</RefundingTaxExemptBondsInd>
+        <RefundingTaxableBondsInd>true</RefundingTaxableBondsInd>
+        <FinalAllocationMadeInd>true</FinalAllocationMadeInd>
+        <AdequateBooksAndRecMaintInd>true</AdequateBooksAndRecMaintInd>
+      </TaxExemptBondsProceedsGrp>
+      <TaxExemptBondsProceedsGrp>
+        <BondReferenceCd>C</BondReferenceCd>
+        <RetiredAmt>0</RetiredAmt>
+        <BondDefeasedAmt>0</BondDefeasedAmt>
+        <TotalProceedsAmt>57160000</TotalProceedsAmt>
+        <InReserveFundAmt>0</InReserveFundAmt>
+        <CapitalizedInterestAmt>0</CapitalizedInterestAmt>
+        <RefundingEscrowAmt>0</RefundingEscrowAmt>
+        <IssuanceCostsFromProceedsAmt>595000</IssuanceCostsFromProceedsAmt>
+        <CreditEnhancementAmt>0</CreditEnhancementAmt>
+        <WorkingCapitalExpendituresAmt>0</WorkingCapitalExpendituresAmt>
+        <CapitalExpendituresAmt>0</CapitalExpendituresAmt>
+        <OtherSpentProceedsAmt>56565000</OtherSpentProceedsAmt>
+        <UnspentAmt>0</UnspentAmt>
+        <SubstantialCompletionYr>2018</SubstantialCompletionYr>
+        <RefundingTaxExemptBondsInd>true</RefundingTaxExemptBondsInd>
+        <RefundingTaxableBondsInd>false</RefundingTaxableBondsInd>
+        <FinalAllocationMadeInd>true</FinalAllocationMadeInd>
+        <AdequateBooksAndRecMaintInd>true</AdequateBooksAndRecMaintInd>
+      </TaxExemptBondsProceedsGrp>
+      <TaxExemptBondsPrivateBusUseGrp>
+        <BondReferenceCd>A</BondReferenceCd>
+        <OwningBondFinancedPropertyInd>false</OwningBondFinancedPropertyInd>
+        <AnyLeaseArrangementsInd>true</AnyLeaseArrangementsInd>
+        <MgmtContractBondFincdPropInd>true</MgmtContractBondFincdPropInd>
+        <EngageBondCounselContractsInd>true</EngageBondCounselContractsInd>
+        <AnyResearchAgreementsInd>false</AnyResearchAgreementsInd>
+        <PrivateBusUseByOthersPct>0</PrivateBusUseByOthersPct>
+        <BondIssMeetPrvtSecPymtTestInd>false</BondIssMeetPrvtSecPymtTestInd>
+        <ChangeInUseBondFinancedPropInd>false</ChangeInUseBondFinancedPropInd>
+        <RemedialActionTakenInd>false</RemedialActionTakenInd>
+        <ProcsNonqualifiedBondRemdtdInd>true</ProcsNonqualifiedBondRemdtdInd>
+      </TaxExemptBondsPrivateBusUseGrp>
+      <TaxExemptBondsPrivateBusUseGrp>
+        <BondReferenceCd>B</BondReferenceCd>
+        <OwningBondFinancedPropertyInd>false</OwningBondFinancedPropertyInd>
+        <AnyLeaseArrangementsInd>true</AnyLeaseArrangementsInd>
+        <MgmtContractBondFincdPropInd>true</MgmtContractBondFincdPropInd>
+        <EngageBondCounselContractsInd>true</EngageBondCounselContractsInd>
+        <AnyResearchAgreementsInd>false</AnyResearchAgreementsInd>
+        <PrivateBusUseByOthersPct>0</PrivateBusUseByOthersPct>
+        <BondIssMeetPrvtSecPymtTestInd>false</BondIssMeetPrvtSecPymtTestInd>
+        <ChangeInUseBondFinancedPropInd>false</ChangeInUseBondFinancedPropInd>
+        <RemedialActionTakenInd>false</RemedialActionTakenInd>
+        <ProcsNonqualifiedBondRemdtdInd>true</ProcsNonqualifiedBondRemdtdInd>
+      </TaxExemptBondsPrivateBusUseGrp>
+      <TaxExemptBondsPrivateBusUseGrp>
+        <BondReferenceCd>C</BondReferenceCd>
+        <OwningBondFinancedPropertyInd>false</OwningBondFinancedPropertyInd>
+        <AnyLeaseArrangementsInd>true</AnyLeaseArrangementsInd>
+        <MgmtContractBondFincdPropInd>true</MgmtContractBondFincdPropInd>
+        <EngageBondCounselContractsInd>true</EngageBondCounselContractsInd>
+        <AnyResearchAgreementsInd>false</AnyResearchAgreementsInd>
+        <PrivateBusUseByOthersPct>0</PrivateBusUseByOthersPct>
+        <BondIssMeetPrvtSecPymtTestInd>false</BondIssMeetPrvtSecPymtTestInd>
+        <ChangeInUseBondFinancedPropInd>false</ChangeInUseBondFinancedPropInd>
+        <RemedialActionTakenInd>false</RemedialActionTakenInd>
+        <ProcsNonqualifiedBondRemdtdInd>true</ProcsNonqualifiedBondRemdtdInd>
+      </TaxExemptBondsPrivateBusUseGrp>
+      <TaxExemptBondsArbitrageGrp>
+        <BondReferenceCd>A</BondReferenceCd>
+        <Form8038TFiledInd>false</Form8038TFiledInd>
+        <RebateNotDueYetInd>true</RebateNotDueYetInd>
+        <ExceptionToRebateInd>false</ExceptionToRebateInd>
+        <NoRebateDueInd>false</NoRebateDueInd>
+        <VariableRateIssueInd>false</VariableRateIssueInd>
+        <HedgeIdentifiedInBksAndRecInd>false</HedgeIdentifiedInBksAndRecInd>
+        <HedgeProviderName>
+          <BusinessNameLine1Txt>0</BusinessNameLine1Txt>
+        </HedgeProviderName>
+        <GrossProceedsInvestedInGICInd>false</GrossProceedsInvestedInGICInd>
+        <GICProviderName>
+          <BusinessNameLine1Txt>0</BusinessNameLine1Txt>
+        </GICProviderName>
+        <GrossProceedsInvestedInd>false</GrossProceedsInvestedInd>
+        <WrittenProcToMonitorReqsInd>true</WrittenProcToMonitorReqsInd>
+      </TaxExemptBondsArbitrageGrp>
+      <TaxExemptBondsArbitrageGrp>
+        <BondReferenceCd>B</BondReferenceCd>
+        <Form8038TFiledInd>false</Form8038TFiledInd>
+        <RebateNotDueYetInd>true</RebateNotDueYetInd>
+        <ExceptionToRebateInd>false</ExceptionToRebateInd>
+        <NoRebateDueInd>false</NoRebateDueInd>
+        <VariableRateIssueInd>false</VariableRateIssueInd>
+        <HedgeIdentifiedInBksAndRecInd>false</HedgeIdentifiedInBksAndRecInd>
+        <HedgeProviderName>
+          <BusinessNameLine1Txt>0</BusinessNameLine1Txt>
+        </HedgeProviderName>
+        <GrossProceedsInvestedInGICInd>false</GrossProceedsInvestedInGICInd>
+        <GICProviderName>
+          <BusinessNameLine1Txt>0</BusinessNameLine1Txt>
+        </GICProviderName>
+        <GrossProceedsInvestedInd>false</GrossProceedsInvestedInd>
+        <WrittenProcToMonitorReqsInd>true</WrittenProcToMonitorReqsInd>
+      </TaxExemptBondsArbitrageGrp>
+      <TaxExemptBondsArbitrageGrp>
+        <BondReferenceCd>C</BondReferenceCd>
+        <Form8038TFiledInd>false</Form8038TFiledInd>
+        <RebateNotDueYetInd>true</RebateNotDueYetInd>
+        <ExceptionToRebateInd>false</ExceptionToRebateInd>
+        <NoRebateDueInd>false</NoRebateDueInd>
+        <VariableRateIssueInd>true</VariableRateIssueInd>
+        <HedgeIdentifiedInBksAndRecInd>false</HedgeIdentifiedInBksAndRecInd>
+        <HedgeProviderName>
+          <BusinessNameLine1Txt>0</BusinessNameLine1Txt>
+        </HedgeProviderName>
+        <GrossProceedsInvestedInGICInd>false</GrossProceedsInvestedInGICInd>
+        <GICProviderName>
+          <BusinessNameLine1Txt>0</BusinessNameLine1Txt>
+        </GICProviderName>
+        <GrossProceedsInvestedInd>false</GrossProceedsInvestedInd>
+        <WrittenProcToMonitorReqsInd>true</WrittenProcToMonitorReqsInd>
+      </TaxExemptBondsArbitrageGrp>
+      <ProceduresCorrectiveActionGrp>
+        <BondReferenceCd>A</BondReferenceCd>
+        <ProceduresCorrectiveActionInd>true</ProceduresCorrectiveActionInd>
+      </ProceduresCorrectiveActionGrp>
+      <ProceduresCorrectiveActionGrp>
+        <BondReferenceCd>B</BondReferenceCd>
+        <ProceduresCorrectiveActionInd>true</ProceduresCorrectiveActionInd>
+      </ProceduresCorrectiveActionGrp>
+      <ProceduresCorrectiveActionGrp>
+        <BondReferenceCd>C</BondReferenceCd>
+        <ProceduresCorrectiveActionInd>true</ProceduresCorrectiveActionInd>
+      </ProceduresCorrectiveActionGrp>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>SCHEDULE K, PART I, LINE A, COLUMN (F)</FormAndLineReferenceDesc>
+        <ExplanationTxt>obligations issued for improvement and expansion of facilities.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>SCHEDULE K, PART I, LINE B, COLUMN (F)</FormAndLineReferenceDesc>
+        <ExplanationTxt>Obligations issued to refund series 2008 Bonds</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>SCHEDULE K, PART I, LINE C, COLUMN (F)</FormAndLineReferenceDesc>
+        <ExplanationTxt>Obligations issued to refund series 2014 &amp; 2017 Bonds</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleK>
+    <IRS990ScheduleO documentId="IRS990ScheduleO">
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART III, LINE 4A</FormAndLineReferenceDesc>
+        <ExplanationTxt>PROGRAM SERVICE ACCOMPLISHMENTS CONT. OPERATING ROOM - TOTAL SURGICAL VISITS OF 3,654. PHARMACY - ORDERS PROCESSED OF 307,058. LAB - BILLABLE TESTS OF 224,764. VALLEY VIEW HOSPITAL PROVIDES QUALITY MEDICAL HEALTHCARE REGARDLESS OF RACE, AGE, CREED, SEX, NATIONAL ORIGIN, OR HANDICAP. ALTHOUGH REIMBURSEMENT FOR SERVICES RENDERED IS CRITICAL TO THE OPERATION AND STABILITY OF VALLEY VIEW HOSPITAL, IT IS RECOGNIZED THAT NOT ALL INDIVIDUALS POSSESS THE ABILITY TO PURCHASE ESSENTIAL MEDICAL SERVICES AND, FURTHER, THAT OUR MISSION IS TO PROVIDE ACUTE HEALTHCARE SERVICES TO OUR COMMUNITY. THEREFORE, IN KEEPING WITH THE HOSPITAL'S COMMITMENT TO SERVE ALL MEMBERS OF ITS COMMUNITY, FREE CARE AND SUBSIDIZED CARE, CARE PROVIDED TO PERSONS COVERED BY GOVERNMENTAL PROGRAMS AT BELOW COST, AND HEALTH ACTIVITIES AND PROGRAMS TO SUPPORT THE COMMUNITY WILL BE CONSIDERED WHERE THE NEED AND/OR INDIVIDUAL'S INABILITY TO PAY CO-EXISTS. THESE ACTIVITIES INCLUDE WELLNESS PROGRAMS, COMMUNITY EDUCATIONS PROGRAMS, AND SPECIAL PROGRAMS FOR THE ELDERLY, HANDICAPPED, MEDICALLY UNDERSERVED, AND VARIETY OF COMMUNITY SUPPORT ACTIVITIES. THE HOSPITAL ALSO OPERATES AN EMERGENCY ROOM, ACUTE CARE, FAMIBIRTH PLACE, RADIOLOGY, CARDIOLOGY, CRITICAL CARE, AND OTHER PROGRAM SERVICES.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION A, LINE 6</FormAndLineReferenceDesc>
+        <ExplanationTxt>THERE ARE TWO CLASSES OF MEMBERS: CHARTER OR LIFE MEMBERS AND ANNUAL MEMBERS. THOSE PERSONS OR ENTITIES WHO ARE CHARTER OR LIFE MEMBERS AS OF 7/31/1995 WILL CONTINUE TO BE LIFE MEMBERS. PERSONS WHO BECOME MEMBERS OF THE ASSOCIATION AFTER 7/31/1995 SHALL PAY AN ANNUAL MEMBERSHIP FEE OF $25.00. EACH MEMBER IN GOOD STANDING SHALL HAVE ONE VOTE IN THE BUSINESS OF THE CORPORATION. AS OF 12/31/2018 THERE WERE 61 LIFETIME MEMBERS AND 19 ANNUAL MEMBERS.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION A, LINE 7A</FormAndLineReferenceDesc>
+        <ExplanationTxt>EACH MEMBER OF THE CORPORATION IN GOOD STANDING SHALL BE QUALIFIED TO VOTE ON ELECTION OF BOARD MEMBERS AND TO HOLD ANY OFFICE IN THE CORPORATION TO WHICH HE MAY BE ELECTED OR APPOINTED. MEMBERS OF THE CORPORATION SHALL BE ELECTED TO THE BOARD OF TRUSTEES OF THE CORPORATION AS APPROPRIATE AT EACH ANNUAL MEETING OF THE CORPORATION. THE BOARD OF TRUSTEES SHALL CONSIST OF SEVEN ELECTED MEMBERS OF THE CORPORATION.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION A, LINE 7B</FormAndLineReferenceDesc>
+        <ExplanationTxt>EACH MEMBER OF THE CORPORATION IN GOOD STANDING SHALL BE QUALIFIED TO VOTE ON THE DISPOSITION OF ASSETS.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION B, LINE 11B</FormAndLineReferenceDesc>
+        <ExplanationTxt>INFORMATION FOR SCHEDULES ARE COMPILED BY THE ASSISTANT CONTROLLER AND THE CONTROLLER, SUBMITTED TO INDEPENDENT TAX ADVISORS TO ASSEMBLE INTO THE FORM 990. THE FORM 990 IS THEN REVIEWED BY THE CFO AND THE BOARD OF DIRECTORS BEFORE BEING FILED WITH THE IRS.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION B, LINE 12C</FormAndLineReferenceDesc>
+        <ExplanationTxt>OFFICERS, DIRECTORS, TRUSTEES AND KEY EMPLOYEES ARE REQUIRED TO COMPLETE AN ANNUAL DISCLOSURE OF INTEREST STATEMENT, DISCLOSING ANY INTERESTS WHICH MAY GIVE RISE TO A CONFLICT OF INTEREST OR THE APPEARANCE OF A CONFLICT OF INTEREST. THE CONFLICT OF INTEREST DISCLOSURES ARE MONITORED BY THE BOARD CHAIR, CHIEF COMPLIANCE OFFICER, AND ADMINISTRATIVE ASSISTANT. IF A CONFLICT ARISES, THE BOARD MEMBER IN QUESTION IS RECUSED FROM VOTING ON THE MATTER.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION B, LINE 15A</FormAndLineReferenceDesc>
+        <ExplanationTxt>IN SETTING THE CEO'S COMPENSATION, THE BOARD USED COMPARABILITY DATA, INCLUDING, BUT NOT LIMITED TO: THE 2017 TOWERS WATSON SURVEY REPORT ON HOSPITAL AND HEALTHCARE MANAGEMENT COMPENSATION AND THE 2017 MOUNTAIN STATES EMPLOYMENT COUNCIL HEALTH CARE COMPENSATION SURVEY. THE CEO'S COMPENSATION IS REVIEWED AND APPROVED BY THE BOARD OF DIRECTORS. THE PROCESS FOR DETERMINING THE COMPENSATION IS RECORDED IN THE BOARD MINUTES AND EMPLOYEE FILES.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION B, LINE 15B</FormAndLineReferenceDesc>
+        <ExplanationTxt>IN SETTING OFFICER AND KEY EMPLOYEE COMPENSATION, THE CEO USED COMPARABILITY DATA, INCLUDING, BUT NOT LIMITED TO: THE 2017 TOWERS WATSON SURVEY REPORT ON HOSPITAL AND HEALTHCARE MANAGEMENT COMPENSATION AND THE 2017 MOUNTAIN STATES EMPLOYMENT COUNCIL HEALTH CARE COMPENSATION SURVEY. OFFICER AND KEY EMPLOYEE COMPENSATION IS REVIEWED AND APPROVED BY THE CEO. THE PROCESS FOR DETERMINING THE COMPENSATION IS RECORDED IN THE BOARD MINUTES AND EMPLOYEE FILES.</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART VI, SECTION C, LINE 19</FormAndLineReferenceDesc>
+        <ExplanationTxt>VALLEY VIEW'S GOVERNING DOCUMENTS, CONFLICT OF INTEREST POLICY, AND FINANCIAL STATEMENTS ARE AVAILABLE TO THE PUBLIC UPON REQUEST FOR THE SAME PERIOD OF DISCLOSURE AS SET FORTH IN IRC SECTION 6104(D).</ExplanationTxt>
+      </SupplementalInformationDetail>
+      <SupplementalInformationDetail>
+        <FormAndLineReferenceDesc>FORM 990, PART XI, LINE 9</FormAndLineReferenceDesc>
+        <ExplanationTxt>LOSS FROM EQUITY METHOD INVESTMENT (147,636) CHANGE IN VALUE OF INTEREST IN FOUNDATION 693,921 NET INCOME RECOGNIZED FROM GRANTOR TRUST STATEMENT (516,020) TOTAL 30,265</ExplanationTxt>
+      </SupplementalInformationDetail>
+    </IRS990ScheduleO>
+    <IRS990ScheduleR documentId="IRS990ScheduleR">
+      <IdRelatedTaxExemptOrgGrp>
+        <DisregardedEntityName>
+          <BusinessNameLine1Txt>VALLEY VIEW HOSPITAL FOUNDATION</BusinessNameLine1Txt>
+        </DisregardedEntityName>
+        <USAddress>
+          <AddressLine1Txt>1906 BLAKE AVENUE</AddressLine1Txt>
+          <CityNm>GLENWOOD SPRINGS</CityNm>
+          <StateAbbreviationCd>CO</StateAbbreviationCd>
+          <ZIPCd>81601</ZIPCd>
+        </USAddress>
+        <EIN>731664673</EIN>
+        <PrimaryActivitiesTxt>SUPPORT VVH</PrimaryActivitiesTxt>
+        <LegalDomicileStateCd>CO</LegalDomicileStateCd>
+        <ExemptCodeSectionTxt>501(C)(3)</ExemptCodeSectionTxt>
+        <PublicCharityStatusTxt>12A</PublicCharityStatusTxt>
+        <DirectControllingEntityName>
+          <BusinessNameLine1Txt>VVH</BusinessNameLine1Txt>
+        </DirectControllingEntityName>
+        <ControlledOrganizationInd>true</ControlledOrganizationInd>
+      </IdRelatedTaxExemptOrgGrp>
+      <ReceiptOfIntAnntsRntsRyltsInd>false</ReceiptOfIntAnntsRntsRyltsInd>
+      <GiftGrntOrCapContriToOthOrgInd>true</GiftGrntOrCapContriToOthOrgInd>
+      <GiftGrntCapContriFromOthOrgInd>true</GiftGrntCapContriFromOthOrgInd>
+      <LoansOrGuaranteesToOtherOrgInd>false</LoansOrGuaranteesToOtherOrgInd>
+      <LoansOrGuaranteesFromOthOrgInd>false</LoansOrGuaranteesFromOthOrgInd>
+      <DivRelatedOrganizationInd>false</DivRelatedOrganizationInd>
+      <AssetSaleToOtherOrgInd>false</AssetSaleToOtherOrgInd>
+      <AssetPurchaseFromOtherOrgInd>false</AssetPurchaseFromOtherOrgInd>
+      <AssetExchangeInd>false</AssetExchangeInd>
+      <RentalOfFacilitiesToOthOrgInd>false</RentalOfFacilitiesToOthOrgInd>
+      <RentalOfFcltsFromOthOrgInd>false</RentalOfFcltsFromOthOrgInd>
+      <PerformOfServicesForOthOrgInd>false</PerformOfServicesForOthOrgInd>
+      <PerformOfServicesByOtherOrgInd>true</PerformOfServicesByOtherOrgInd>
+      <SharingOfFacilitiesInd>true</SharingOfFacilitiesInd>
+      <PaidEmployeesSharingInd>true</PaidEmployeesSharingInd>
+      <ReimbursementPaidToOtherOrgInd>false</ReimbursementPaidToOtherOrgInd>
+      <ReimbursementPaidByOtherOrgInd>false</ReimbursementPaidByOtherOrgInd>
+      <TransferToOtherOrgInd>false</TransferToOtherOrgInd>
+      <TransferFromOtherOrgInd>false</TransferFromOtherOrgInd>
+      <TransactionsRelatedOrgGrp>
+        <OtherOrganizationName>
+          <BusinessNameLine1Txt>Valley View Hospital Foundation</BusinessNameLine1Txt>
+        </OtherOrganizationName>
+        <TransactionTypeTxt>B</TransactionTypeTxt>
+        <InvolvedAmt>99998</InvolvedAmt>
+        <MethodOfAmountDeterminationTxt>Cash Transfer</MethodOfAmountDeterminationTxt>
+      </TransactionsRelatedOrgGrp>
+      <TransactionsRelatedOrgGrp>
+        <OtherOrganizationName>
+          <BusinessNameLine1Txt>VALLEY VIEW HOSPITAL FOUNDATION</BusinessNameLine1Txt>
+        </OtherOrganizationName>
+        <TransactionTypeTxt>C</TransactionTypeTxt>
+        <InvolvedAmt>633781</InvolvedAmt>
+        <MethodOfAmountDeterminationTxt>CASH TRANSFER</MethodOfAmountDeterminationTxt>
+      </TransactionsRelatedOrgGrp>
+    </IRS990ScheduleR>
+  </ReturnData>
+</Return>
